@@ -10,11 +10,8 @@ comments: false
 ## Venue
 
 {% highlight html %}
-
 Egypt - Japan University of Science and Technology
-
 Alexandria, 
-
 Borg El Arab, Egypt
 {% endhighlight %}
 
@@ -27,5 +24,5 @@ Borg El Arab, Egypt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cM5lZHMWyo" frameborder="0"> </iframe>
 
 
-[Web Page](https://ejust.edu.eg/){: .btn}
+[Web Page: https://ejust.edu.eg](https://ejust.edu.eg/){: .btn}
 
