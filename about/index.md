@@ -5,11 +5,8 @@ tags: [about]
 date: 2019-09-25
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"> <b>Moon</b>  </a> 
-    
+
 This Workshop aims at exploiting the laboratory-based learning methodology (or practical education methodology) for Mechatronics and Robotics. 
-</center>
 
 The Japanese education focuses on practical needs of society, as such, many courses are developed in Laboratory-based and Project-Based Learning. This benefits Japanese universities’ graduates to join industry with practical skills, favoring sustainable competitiveness. 
 
