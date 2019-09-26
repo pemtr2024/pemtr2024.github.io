@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About the Workshop
+title: About
 tags: [about]
 date: 2019-09-25
 comments: false
 ---
 
 This Workshop aims at exploiting the laboratory-based learning methodology (or practical education methodology) for Mechatronics and Robotics. 
+
 
 The Japanese education focuses on practical needs of society, as such, many courses are developed in Laboratory-based and Project-Based Learning. This benefits Japanese universities’ graduates to join industry with practical skills, favoring sustainable competitiveness. 
 
@@ -31,11 +32,6 @@ Alexandria, Egypt
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus2.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Main Campus of E-JUST" cols=2 %}
 
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-#[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
