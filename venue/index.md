@@ -23,7 +23,7 @@ Borg El Arab, Egypt
 {% include gallery images=images caption="Main Campus of E-JUST" cols=2 %}
 
 {% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5cM5lZHMWyo" frameborder="0"> </iframe>
 {% endhighlight %}
 
 [Web Page](https://ejust.edu.eg/){: .btn}
