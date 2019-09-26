@@ -14,6 +14,7 @@ Prof. Ahmed El-Gohary, E-JUST President
 
 
 ## Program Chair
+
 * Prof. Abdelfatah Mohamed (E-JUST)
 
 * Prof. Shigeki Sugano (Waseda University)
@@ -36,6 +37,14 @@ Prof. Ahmed El-Gohary, E-JUST President
 * Dr. Victor Parque (Waseda University)
 
 * Dr. Moondeep Shrestha (Waseda University)
+
+
+## Local Arrangements
+
+* Eng. Mohamed Sobhi (E-JUST)
+
+* Mr. Ramy Ali (E-JUST)
+
 
 
 
