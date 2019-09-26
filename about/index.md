@@ -26,7 +26,6 @@ The title is "3rd Egypt-Japan Workshop on Practical Education for Mechatronics a
 Egypt - Japan University of Science and Technology
 Alexandria, Egypt
 
-[Access](https://github.com/TaylanTatli/Moon){: .btn}
 
 {% capture images %}
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
@@ -34,4 +33,5 @@ Alexandria, Egypt
 {% endcapture %}
 {% include gallery images=images caption="Main Campus of E-JUST" cols=2 %}
 
+[Access](https://github.com/TaylanTatli/Moon){: .btn}
 
