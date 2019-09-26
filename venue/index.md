@@ -10,7 +10,10 @@ comments: false
 ## Venue
 
 Egypt - Japan University of Science and Technology
-Alexandria, Egypt
+
+Alexandria, 
+
+Borg El Arab, Egypt
 
 
 {% capture images %}
