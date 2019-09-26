@@ -9,25 +9,33 @@ comments: false
 
 
 
-General Chair
+## General Chair
 Prof. Ahmed El-Gohary, E-JUST President
 
 
-Program Chair
+## Program Chair
 * Prof. Abdelfatah Mohamed (E-JUST)
 
 * Prof. Shigeki Sugano (Waseda University)
 
 
-Organizing Committee
-Prof. Amr El-Tawil (E-JUST)
-Prof. Tomoyuki Miyashita (Waseda University)
-Prof. Sabah Ahmed (E-JUST)
-Prof. Mohamed Fanni (E-JUST)
-Prof. Samy Assal (E-JUST)
-Dr. Ahmed Fath-El Bab (E-JUST)
-Dr. Victor Parque (Waseda University)
-Dr. Moondeep Shrestha (Waseda University)
+## Organizing Committee
+
+* Prof. Amr El-Tawil (E-JUST)
+
+* Prof. Tomoyuki Miyashita (Waseda University)
+
+* Prof. Sabah Ahmed (E-JUST)
+
+* Prof. Mohamed Fanni (E-JUST)
+
+* Prof. Samy Assal (E-JUST)
+
+* Dr. Ahmed Fath-El Bab (E-JUST)
+
+* Dr. Victor Parque (Waseda University)
+
+* Dr. Moondeep Shrestha (Waseda University)
 
 
 
