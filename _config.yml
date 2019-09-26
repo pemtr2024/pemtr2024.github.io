@@ -1,7 +1,7 @@
 # Site
 title:              Egypt-Japan Workshop on Practical Education for Mechatronics and Robotics
 bio:                '2019'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+#description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo2.png'
