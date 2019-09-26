@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Venue
+title: Workshop Venue
 tags: [venue]
 date: 2019-09-25
 comments: false
