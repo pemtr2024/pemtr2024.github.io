@@ -16,14 +16,14 @@ Prof. Ahmed El-Gohary, E-JUST President
 
 * Prof. Abdelfatah Mohamed (E-JUST)
 
-* Prof. Shigeki Sugano (Waseda University, Japan)
+* Prof. Sugano Shigeki (Waseda University, Japan)
 
 
 ## Organizing Committee
 
 * Prof. Amr El-Tawil (E-JUST)
 
-* Prof. Tomoyuki Miyashita (Waseda University, Japan)
+* Prof. Miyashita Tomoyuki (Waseda University, Japan)
 
 * Prof. Sabah Ahmed (E-JUST)
 
