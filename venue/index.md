@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Workshop Venue
