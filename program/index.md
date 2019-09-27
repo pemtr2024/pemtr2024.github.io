@@ -12,7 +12,7 @@ comments: false
 
 * 09:30 – 11:00 : Welcome Ceremony
 * 11:30 – 16:00 : Plenary Seminars
-* 16:00 – 18:00 : Lunch at E-JUST
+* 16:00 – 18:00 : Banquet at E-JUST
 
 ### Day 2 Oct. 29 (Tue)
 
@@ -25,11 +25,23 @@ comments: false
 
 * 09:30 – 12:00 : Laboratory-based Sessions
 * 12:00 – 13:30 : Lunch at E-JUST
-* 13:30 – 15:30 : Experiments and Competitions
+* 13:30 – 15:30 : PBL-based Sessions
 * 15:30 – 16:00 : Closing Ceremony
 
 
 ## Plenary Seminars
+
+#### Prof. Sugano Shigeki
+
+##### Title: TBD
+
+You can also add notices by appending to a paragraph.
+{: .notice}
+
+
+#### Prof. Miyashita Tomoyuki
+
+##### Title: TBD
 
 
 
