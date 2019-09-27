@@ -46,8 +46,5 @@ Abstract
 {: .notice}
 
 
-
-
-
-[Access](https://github.com/TaylanTatli/Moon){: .btn}
+[Access](https://pemtr2019.github.io/venue/){: .btn}
 

@@ -33,5 +33,5 @@ Alexandria, Egypt
 {% endcapture %}
 {% include gallery images=images caption="Main Campus of E-JUST" cols=2 %}
 
-[Access](https://github.com/TaylanTatli/Moon){: .btn}
+[Access](https://pemtr2019.github.io/venue/){: .btn}
 
