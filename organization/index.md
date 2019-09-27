@@ -8,7 +8,6 @@ comments: false
 ---
 
 
-
 ## General Chair
 Prof. Ahmed El-Gohary, E-JUST President
 

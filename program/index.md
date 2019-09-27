@@ -55,7 +55,7 @@ Abstract
 
 #### Dr. Victor Parque (Waseda University)
 
-##### Title: Active Learning for Mechatronics and Robotics in E-JUST
+##### Title: TBD
 
 Abstract
 {: .notice}
