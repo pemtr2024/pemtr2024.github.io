@@ -16,10 +16,11 @@ Egypt
 {% endhighlight %}
 
 {% capture images %}
+    https://raw.githubusercontent.com/pemtr2019/pemtr2019.github.io/master/assets/img/placeholder-big2.jpg
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus2.jpg
 {% endcapture %}
-{% include gallery images=images caption="Main Campus of E-JUST" cols=2 %}
+{% include gallery images=images caption="Main Campus of E-JUST" cols=1 %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cM5lZHMWyo" frameborder="0"> </iframe>
 
