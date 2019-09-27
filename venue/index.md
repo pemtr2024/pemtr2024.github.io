@@ -16,7 +16,6 @@ Egypt
 {% endhighlight %}
 
 {% capture images %}
-    https://raw.githubusercontent.com/pemtr2019/pemtr2019.github.io/master/assets/img/placeholder-big2.jpg
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus2.jpg
 {% endcapture %}
