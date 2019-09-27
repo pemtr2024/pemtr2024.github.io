@@ -17,14 +17,14 @@ Prof. Ahmed El-Gohary, E-JUST President
 
 * Prof. Abdelfatah Mohamed (E-JUST)
 
-* Prof. Shigeki Sugano (Waseda University)
+* Prof. Shigeki Sugano (Waseda University, Japan)
 
 
 ## Organizing Committee
 
 * Prof. Amr El-Tawil (E-JUST)
 
-* Prof. Tomoyuki Miyashita (Waseda University)
+* Prof. Tomoyuki Miyashita (Waseda University, Japan)
 
 * Prof. Sabah Ahmed (E-JUST)
 
@@ -34,9 +34,9 @@ Prof. Ahmed El-Gohary, E-JUST President
 
 * Dr. Ahmed Fath-El Bab (E-JUST)
 
-* Dr. Victor Parque (Waseda University)
+* Dr. Victor Parque (Waseda University, Japan)
 
-* Dr. Moondeep Shrestha (Waseda University)
+* Dr. Moondeep Shrestha (Waseda University, Japan)
 
 
 ## Local Arrangements

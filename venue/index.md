@@ -3,6 +3,7 @@ layout: page
 title: Workshop Venue
 tags: [venue]
 date: 2019-09-25
+feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
 comments: false
 ---
 
