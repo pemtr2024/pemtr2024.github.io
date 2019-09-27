@@ -35,13 +35,15 @@ comments: false
 
 ##### Title: TBD
 
-You can also add notices by appending to a paragraph.
+Abstract
 {: .notice}
-
 
 #### Prof. Miyashita Tomoyuki
 
 ##### Title: TBD
+
+Abstract
+{: .notice}
 
 
 
