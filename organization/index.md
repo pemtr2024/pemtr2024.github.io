@@ -45,7 +45,7 @@ Prof. Ahmed El-Gohary, E-JUST President
 * Mr. Ramy Ali (E-JUST)
 
 
-This seminar is supported by JSPS and STDF under the Japan - Egypt Cooperative Program
+This seminar is supported by JSPS and STDF under the Japan - Egypt Cooperative Program.
 {: .notice}
 
 [Access](https://pemtr2019.github.io/venue/){: .btn}
