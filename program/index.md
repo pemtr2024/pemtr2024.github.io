@@ -29,21 +29,37 @@ comments: false
 * 15:30 – 16:00 : Closing Ceremony
 
 
-## Plenary Seminars
+## Speakers
 
-#### Prof. Sugano Shigeki
+#### Prof. Sugano Shigeki (Waseda University)
+
+##### Title: TBD
+
+Abstract
+{: .notice}
+
+#### Prof. Miyashita Tomoyuki (Waseda University)
 
 ##### Title: TBD
 
 Abstract
 {: .notice}
 
-#### Prof. Miyashita Tomoyuki
+#### Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology)
 
 ##### Title: TBD
 
 Abstract
 {: .notice}
+
+
+#### Dr. Victor Parque (Waseda University)
+
+##### Title: Active Learning for Mechatronics and Robotics in E-JUST
+
+Abstract
+{: .notice}
+
 
 
 [Access](https://pemtr2019.github.io/venue/){: .btn}
