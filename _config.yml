@@ -5,7 +5,7 @@ bio:                '2019, Oct. 28 - 30 @ E-JUST'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo3.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/placeholder-big2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://pemtr2019.github.io
