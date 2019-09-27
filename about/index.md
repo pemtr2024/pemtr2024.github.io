@@ -6,7 +6,7 @@ date: 2019-09-25
 comments: false
 ---
 
-This Workshop aims at exploiting the Laboratory-Based learning methodology (or Practical Education methodology) for Mechatronics and Robotics. 
+This Workshop focuses on Practical Education for Mechatronics and Robotics.
 
 
 The Japanese educational system focuses on practical needs, hands-on and creativity-nurturing approaches, as such, many courses are developed in Laboratory-Based and Project-Based Learning. This benefits Japanese universities’ graduates to join industry with practical skills, favouring sustainable competitiveness.
