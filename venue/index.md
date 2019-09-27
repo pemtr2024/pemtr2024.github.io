@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Workshop Venue
@@ -5,7 +6,6 @@ tags: [venue]
 date: 2019-09-25
 comments: false
 ---
-
 
 ## Venue
 
@@ -22,7 +22,6 @@ Borg El Arab, Egypt
 {% include gallery images=images caption="Main Campus of E-JUST" cols=2 %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cM5lZHMWyo" frameborder="0"> </iframe>
-
 
 [Web Page: https://ejust.edu.eg](https://ejust.edu.eg/){: .btn}
 
