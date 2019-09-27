@@ -9,9 +9,10 @@ comments: false
 
 
 {% highlight html %}
-Egypt - Japan University of Science and Technology
+Egypt - Japan University of Science and Technology (E-JUST)
+Borg El Arab, 
 Alexandria, 
-Borg El Arab, Egypt
+Egypt
 {% endhighlight %}
 
 {% capture images %}
