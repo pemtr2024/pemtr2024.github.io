@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+overlay_filter: 0.5
 tags: [about]
 date: 2019-09-25
 comments: false
