@@ -4,6 +4,7 @@ title: "Organization"
 date: 2019-09-25
 tags: [organization]
 feature: http://i.imgur.com/Ds6S7lJ.png
+overlay_filter: 0.5
 comments: false
 ---
 
