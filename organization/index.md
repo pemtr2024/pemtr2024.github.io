@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Organization"
+title: "Organization1"
 date: 2019-09-25
 tags: [organization]
 feature: http://i.imgur.com/Ds6S7lJ.png
-overlay_filter: 0.5
+overlay_filter: 0.75
 comments: false
 ---
 
