@@ -24,11 +24,4 @@ Egypt - Japan University of Science and Technology (E-JUST)
 Borg-El Arab, Alexandria, Egypt
 
 
-{% capture images %}
-    https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
-    https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus2.jpg
-{% endcapture %}
-{% include gallery images=images caption="Main Campus of E-JUST" cols=1 %}
-
-[Access](https://pemtr2019.github.io/venue/){: .btn}
 
