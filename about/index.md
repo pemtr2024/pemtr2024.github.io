@@ -6,7 +6,7 @@ date: 2019-09-25
 comments: false
 ---
 
-This Workshop focuses on practical approaches in Higher Education for Mechatronics and Robotics.
+This workshop focuses on practical approaches in Higher Education for Mechatronics and Robotics.
 
 
 The Japanese educational system focuses on practical needs, hands-on and creativity-nurturing approaches. As such, many courses are developed in Laboratory-Based and Project-Based Learning. This approach benefits Japanese universities’ graduates to join industry with practical skills, favouring sustainable competitiveness.
