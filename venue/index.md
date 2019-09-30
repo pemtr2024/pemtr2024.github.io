@@ -12,13 +12,16 @@ location:
 
 
 {% highlight html %}
-Egypt - Japan University of Science and Technology (E-JUST)
-Borg El Arab, 
-Alexandria, 
-Egypt
+Egypt-Japan University of Science and Technology (E-JUST)
+P.O. Box 179, New Borg El-Arab City
+Postal Code 21934,
+Alexandria, Egypt
 {% endhighlight %}
 
 
+{% google_map %}
+
+## E-JUST Campus
 
 {% capture images %}
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq.jpg
