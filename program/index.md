@@ -61,6 +61,5 @@ Abstract
 {: .notice}
 
 
-
-[Access](https://pemtr2019.github.io/venue/){: .btn}
+[Home](https://pemtr2019.github.io){: .btn}
 
