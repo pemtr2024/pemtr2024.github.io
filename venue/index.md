@@ -36,7 +36,6 @@ Alexandria, Egypt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cM5lZHMWyo" frameborder="0"> </iframe>
 
 
+[Home](https://pemtr2019.github.io){: .btn}
 
-
-[Web Page: https://ejust.edu.eg](https://ejust.edu.eg/){: .btn}
 
