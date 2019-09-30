@@ -29,7 +29,7 @@ Alexandria, Egypt
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq2.jpg    
 {% endcapture %}
-{% include gallery images=images caption="Main Campus of E-JUST" cols=1 %}
+{% include gallery images=images caption="" cols=1 %}
 
 ## E-JUST Facilities
 
