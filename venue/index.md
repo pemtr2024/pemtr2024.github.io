@@ -15,7 +15,7 @@ Alexandria,
 Egypt
 {% endhighlight %}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13698.893832435286!2d29.5826626!3d30.8664166!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfbf1eb15d4fed589!2sEgypt%20Japan%20University%20Of%20Science%20%26%20Technology!5e0!3m2!1sen!2sjp!4v1569813785473!5m2!1sen!2sjp" width="560" height="315" frameborder="0" style="border:0;" allowfullscreen=""> </iframe>
+<iframe width="560" height="315" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13698.893832435286!2d29.5826626!3d30.8664166!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfbf1eb15d4fed589!2sEgypt%20Japan%20University%20Of%20Science%20%26%20Technology!5e0!3m2!1sen!2sjp!4v1569813785473!5m2!1sen!2sjp" frameborder="0"> </iframe>
 
 {% capture images %}
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
