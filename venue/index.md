@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop Venue
+title: Workshop Venue1
 tags: [venue]
 date: 2019-09-25
 feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/accom.jpg
