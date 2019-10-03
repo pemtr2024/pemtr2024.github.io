@@ -19,7 +19,7 @@ comments: false
 * 09:30 – 10:30 : Interactive Forum
 * 10:30 – 12:00 : Invited Talks
 * 12:00 – 13:30 : Lunch at E-JUST
-* 14:00 – 16:00 : Seminars on Selected Topics
+* 14:00 – 16:00 : Seminars on Selected Topics of Mechatronics and Robotics
 
 ### Day 3 Oct. 30 (Wed)
 
