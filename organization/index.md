@@ -40,9 +40,13 @@ Prof. Ahmed El-Gohary, E-JUST President
 
 ## Local Arrangements
 
-* Eng. Mohamed Sobhi (E-JUST)
+* Eng.Muhammad Ali (E-JUST)
 
-* Mr. Ramy Ali (E-JUST)
++20-122-718-7738, mohamed.sobhi@ejust.edu.eg
+
+* Mr.Ramy Ali (E-JUST)
++20-101-797-7197, ramy.ali@ejust.edu.eg
+
 
 
 This seminar is supported by JSPS and STDF under the Japan - Egypt Cooperative Program.
