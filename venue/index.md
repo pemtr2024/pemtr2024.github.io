@@ -19,6 +19,12 @@ Alexandria, Egypt
 {% endhighlight %}
 
 
+## Local Arrangements
+
+* Eng. Muhammad Ali (E-JUST): +20-122-718-7738, mohamed.sobhi@ejust.edu.eg
+* Mr. Ramy Ali (E-JUST): +20-101-797-7197, ramy.ali@ejust.edu.eg
+{: .notice}
+
 ## E-JUST Facilities
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cM5lZHMWyo" frameborder="0" allow="accelerometer; autoplay"> </iframe>
