@@ -25,32 +25,21 @@ comments: false
   <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
 </div> 
 
-
 </details>
 
 
 
-
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
-</summary>
-
-This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
-
-
-</details>
-
-
-</details>
 
 
 ---
+
+### 11:30 – 16:00 : Plenary Seminars
 
 
 <details>
 
 <summary>
-<b>Some txt</b>
+<b>Details</b>
 </summary>
 
 
