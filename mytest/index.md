@@ -15,7 +15,7 @@ comments: false
 <details>
 
 <summary>
-&#9660 Details...  	&#9881; 
+&#9660; Details...  	&#9881; 
 </summary>
 
 
