@@ -49,10 +49,10 @@ This text is used as a placeholder or a tk note. Words that will follow won't ma
 <details>
 
 <summary>
-<bold>Some txt</bold>
+<b>Some txt</b>
 </summary>
 
-This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
+This <b>text</b> is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
 
 </details>
 
