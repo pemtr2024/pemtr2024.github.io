@@ -3,7 +3,7 @@ layout: page
 title: Program
 tags: [program, schedule]
 date: 2019-09-25
-feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/lecture4.jpg
+feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/lecture5.jpg
 comments: false
 ---
 
