@@ -41,6 +41,7 @@ Prof. Suzuki Masaaki, Vice President of International and Regional Affairs, E-JU
 Prof. Ahmed ElGohary, E-JUST President
 ~~~
 
+---
 
 ## Speakers
 
@@ -81,6 +82,10 @@ Abstract
 Abstract
 {: .notice}
 
+
+---
+
+## Speakers
 
 
 
