@@ -42,43 +42,66 @@ comments: false
 </details>
 
 
-#### 11:30 – 12:30 : Plenary Seminar by Prof. Sugano Shigeki (Waseda University)
-
-##### Title: TBD
-
-Abstract
-{: .notice}
-
-#### 12:30 – 13:30 : Plenary Seminar by Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology)
-
-##### Title: TBD
-
-Abstract
-{: .notice}
-
-#### 13:30 – 14:30 : Plenary Seminar by Prof. Miyashita Tomoyuki (Waseda University)
-
-##### Title: TBD
-
-Abstract
-{: .notice}
+<details>
+<summary>
+<h3> 12:30 – 13:30 : Plenary Seminar by Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology) </h3>
+</summary>
 
 
-#### 14:30 – 15:00 : Plenary Seminar by Eng. Ahmed Saad (Unilever)
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div>
 
-##### Title: TBD
-
-Abstract
-{: .notice}
+</details>
 
 
 
-#### 15:30 – 16:00 : Plenary Seminar by FIBH Faculty (Egypt-Japan University of Science and Technology)
+<details>
+<summary>
+<h3> 13:30 – 14:30 : Plenary Seminar by Prof. Miyashita Tomoyuki (Waseda University) </h3>
+</summary>
 
-##### Title: TBD
 
-Abstract
-{: .notice}
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div>
+
+</details>
+
+
+
+<details>
+<summary>
+<h3> 14:30 – 15:00 : Plenary Seminar by Eng. Ahmed Saad (Unilever) </h3>
+</summary>
+
+
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div>
+
+</details>
+
+
+<details>
+<summary>
+<h3> 15:30 – 16:00 : Plenary Seminar by FIBH Faculty (Egypt-Japan University of Science and Technology) </h3>
+</summary>
+
+
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div>
+
+</details>
 
 
 
