@@ -69,7 +69,7 @@ Abstract
 
 #### Eng. Ahmed Saad (Unilever)
 
-##### Title: World Class Manufacturing
+> Title: World Class Manufacturing
 
 Abstract
 {: .notice}
@@ -81,7 +81,6 @@ Abstract
 
 Abstract
 {: .notice}
-
 
 ---
 
