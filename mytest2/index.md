@@ -12,7 +12,7 @@ comments: false
 
 * 09:30 – 11:00 : Welcome Ceremony
 * 11:30 – 16:00 : [Plenary Seminars](#speakers)
-* <div markdown="0"><a href="#speakers" class="btn;left">11:30 – 16:00 Plenary Seminars</a></div>
+* 11:30 – 16:00 <div markdown="0"><a href="#speakers" class="btn;left">Plenary Seminars</a></div>
 * 16:00 – 18:00 : Banquet at E-JUST
 
 ### Day 2 Oct. 29 (Tue)
