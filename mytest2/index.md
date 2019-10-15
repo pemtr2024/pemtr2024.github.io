@@ -86,6 +86,7 @@ Abstract
 
 
 ## Forum
+> Topic: Practical Education in Mechatronics and Robotics
 
 {% highlight coffeescript %}
 Prof. Sugano Shigeki (Waseda University, Japan)
@@ -99,7 +100,6 @@ Prof. Ahmed Fath (E-JUST, Egypt)
 ## Seminars
 
 {% highlight coffeescript %}
-09:30 - 10:30 Interactive Forum: Professors (Q&A)
 10:30 - 11:00 Seminar 1: Alumni / Student from MTR
 11:00 - 11:30 Seminar 2: Student 
 11:30 - 12:00 Seminar 3: Student 
