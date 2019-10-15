@@ -10,12 +10,12 @@ comments: false
 
 ## Day 1 Oct. 28 (Mon)
 
-### 09:30 - 11:00 : Welcome Ceremony </summary>
+### 09:30 - 11:00 : Welcome Ceremony 
 
 <details>
 
 <summary>
-<b>Some txt</b>
+<b>Details...</b>
 </summary>
 
 
@@ -28,18 +28,13 @@ comments: false
 </details>
 
 
-
-
-
----
-
 ### 11:30 – 16:00 : Plenary Seminars
 
 
 <details>
 
 <summary>
-<b>Details</b>
+<b>Details...</b>
 </summary>
 
 
