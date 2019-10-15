@@ -132,7 +132,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 
 ## Laboratory Sessions
 
-{% highlight abap %}
+{% highlight coffeescript %}
 11:30 - 15:30 Laboratory Sessions / Experiments / Mechatronics and Robotics Systems
 {% endhighlight %}
 
