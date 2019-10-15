@@ -65,12 +65,22 @@ Abstract
 {: .notice}
 
 
-#### Dr. Victor Parque (Waseda University)
+#### Eng. Ahmed Saad (Unilever)
 
 ##### Title: TBD
 
 Abstract
 {: .notice}
+
+
+#### Plenary Seminar from FIBH (Egypt-Japan University of Science and Technology)
+
+##### Title: TBD
+
+Abstract
+{: .notice}
+
+
 
 
 [Home](https://pemtr2019.github.io){: .btn}
