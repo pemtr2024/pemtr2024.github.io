@@ -27,6 +27,17 @@ Prof. Ahmed ElGohary
 </details>
 
 
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
+</summary>
+This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
+
+Cheers!
+[Pascal](https://twitter.com/askpascalandy/)
+
+</details>
+
 
 * 11:30 – 16:00 : [Plenary Seminars]()
 * 16:00 – 18:00 : Banquet at E-JUST
