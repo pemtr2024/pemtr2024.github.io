@@ -40,7 +40,7 @@ Prof. Ahmed ElGohary
 
 # Day 2 Oct. 29 (Tue)
 
-## Interative Forum
+## Interactive Forum
 {% highlight csharp %}
 09:30 - 10:30 Interactive Forum: Professors (Q&A)
 {% endhighlight %}
