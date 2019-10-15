@@ -15,7 +15,7 @@ comments: false
 <details>
 
 <summary>
-<b>Details...</b>
+Details...
 </summary>
 
 
@@ -34,7 +34,7 @@ comments: false
 <details>
 
 <summary>
-<b>Details...</b>
+Details...
 </summary>
 
 
