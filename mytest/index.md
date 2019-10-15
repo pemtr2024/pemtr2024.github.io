@@ -10,10 +10,10 @@ comments: false
 
 ### Day 1 Oct. 28 (Mon)
 
-#### 09:30 - 11:00 : Welcome Ceremony 
+
 <details>
 <summary>
-&#9660; Details... 
+<h2>  &#9660; 09:30 - 11:00 : Welcome Ceremony </h2>
 </summary>
 
 
