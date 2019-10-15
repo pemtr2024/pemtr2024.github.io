@@ -47,21 +47,21 @@ Prof. Ahmed ElGohary, E-JUST President
 
 #### [Prof. Sugano Shigeki](http://www.sugano.mech.waseda.ac.jp/) (Waseda University)
 
-##### Title: TBD
+> Title: TBD
 
 Abstract
 {: .notice}
 
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University)
 
-##### Title: TBD
+> Title: TBD
 
 Abstract
 {: .notice}
 
 #### Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology)
 
-##### Title: TBD
+> Title: TBD
 
 Abstract
 {: .notice}
@@ -77,7 +77,7 @@ Abstract
 
 #### Plenary Seminar from FIBH (Egypt-Japan University of Science and Technology)
 
-##### Title: TBD
+> Title: TBD
 
 Abstract
 {: .notice}
@@ -86,7 +86,7 @@ Abstract
 
 
 ## Forum
-> Topic: Practical Education in Mechatronics and Robotics
+> Discussion Topic: Practical Education / Mechatronics and Robotics
 
 {% highlight coffeescript %}
 Prof. Sugano Shigeki (Waseda University, Japan)
