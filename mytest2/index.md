@@ -7,7 +7,7 @@ feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq2.jp
 comments: false
 ---
 
-## A Glance v2
+## A Glance
 
 ### Day 1 Oct. 28 (Mon)
 
