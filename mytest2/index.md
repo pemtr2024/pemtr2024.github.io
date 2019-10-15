@@ -28,6 +28,7 @@ comments: false
 * 15:30 - 16:00 : [`Closing Ceremony and Lunch`](#speakers)
 
 
+---
 
 ## Welcome Ceremony
 
