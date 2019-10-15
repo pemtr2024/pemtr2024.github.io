@@ -19,7 +19,7 @@ comments: false
 ## A Glance
 
 
-    <div class="container">
+<div class="container">
   <h2>Responsive Tables Using LI <small>Triggers on 767px</small></h2>
   <ul class="responsive-table">
     <li class="table-header">
