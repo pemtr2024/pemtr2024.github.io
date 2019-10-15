@@ -26,26 +26,40 @@ comments: false
 </details>
 
 
-#### 11:30 – 16:00 : Plenary Seminars
+#### 11:30 – 12:30 : Plenary Seminar by Prof. Sugano Shigeki (Waseda University)
 
-
-##### Prof. Sugano Shigeki (Waseda University)
-
-###### Title: TBD
+##### Title: TBD
 
 Abstract
 {: .notice}
 
-##### Prof. Miyashita Tomoyuki (Waseda University)
+#### 12:30 – 13:30 : Plenary Seminar by Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology)
 
-###### Title: TBD
+##### Title: TBD
 
 Abstract
 {: .notice}
 
-##### Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology)
+#### 13:30 – 14:30 : Plenary Seminar by Prof. Miyashita Tomoyuki (Waseda University)
 
-###### Title: TBD
+##### Title: TBD
+
+Abstract
+{: .notice}
+
+
+#### 14:30 – 15:00 : Plenary Seminar by Eng. Ahmed Saad (Unilever)
+
+##### Title: TBD
+
+Abstract
+{: .notice}
+
+
+
+#### 15:30 – 16:00 : Plenary Seminar by FIBH Faculty (Egypt-Japan University of Science and Technology)
+
+##### Title: TBD
 
 Abstract
 {: .notice}
