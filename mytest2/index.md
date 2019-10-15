@@ -69,7 +69,7 @@ Abstract
 
 #### Eng. Ahmed Saad (Unilever)
 
-##### Title: TBD
+##### Title: World Class Manufacturing
 
 Abstract
 {: .notice}
@@ -85,7 +85,19 @@ Abstract
 
 ---
 
-## Forum and Invited Seminars
+
+## Forum
+
+{% highlight coffeescript %}
+Prof. Sugano Shigeki (Waseda University, Japan)
+Prof. Miyashita Tomoyuki (Waseda University, Japan)
+Prof. Abdelfatah Mohamed (Egypt-Japan University of Science and Technology, Egypt)
+Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology, Egypt)
+Prof. Samy Assal (Egypt-Japan University of Science and Technology, Egypt)
+Prof. Ahmed Fath El Bab (Egypt-Japan University of Science and Technology, Egypt)
+{% endhighlight %}
+
+## Seminars
 
 {% highlight coffeescript %}
 09:30 - 10:30 Interactive Forum: Professors (Q&A)
