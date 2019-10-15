@@ -8,12 +8,12 @@ comments: false
 
 
 
-### Day 1 Oct. 28 (Mon)
+## Day 1 Oct. 28 (Mon)
 
 
 <details>
 <summary>
-<h2>  &#9660; 09:30 - 11:00 : Welcome Ceremony </h2>
+<h3>  &#9660; 09:30 - 11:00 : Welcome Ceremony </h3>
 </summary>
 
 
@@ -25,8 +25,6 @@ comments: false
 
 </details>
 
-
-<h2>London</h2>
   
 #### 11:30 – 12:30 : Plenary Seminar by Prof. Sugano Shigeki (Waseda University)
 
