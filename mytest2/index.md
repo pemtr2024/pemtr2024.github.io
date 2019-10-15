@@ -32,7 +32,7 @@ comments: false
 
 ## Welcome Ceremony
 
-~~~ ruby
+~~~ html
 Prof. Abdelfatah Mohamed, Organizing Chair, E-JUST
 Prof. Amr ElTawil, Dean of School of Innovative Design Engineering, E-JUST
 Prof. Sameh A. Nada, VicePresident of Education and Academic Affairs, E-JUST
