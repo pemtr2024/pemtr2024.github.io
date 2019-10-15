@@ -30,7 +30,7 @@ comments: false
 
 ---
 
-## Welcome Ceremony
+## Welcome Notes
 
 ~~~ html
 Prof. Abdelfatah Mohamed, Organizing Chair, Professor at The Department of Mechatronics and Robotics, E-JUST
