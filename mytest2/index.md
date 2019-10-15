@@ -91,10 +91,10 @@ Abstract
 {% highlight coffeescript %}
 Prof. Sugano Shigeki (Waseda University, Japan)
 Prof. Miyashita Tomoyuki (Waseda University, Japan)
-Prof. Abdelfatah Mohamed (Egypt-Japan University of Science and Technology, Egypt)
-Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology, Egypt)
-Prof. Samy Assal (Egypt-Japan University of Science and Technology, Egypt)
-Prof. Ahmed Fath El Bab (Egypt-Japan University of Science and Technology, Egypt)
+Prof. Abdelfatah Mohamed (E-JUST, Egypt)
+Prof. Mohamed Fanni (E-JUST, Egypt)
+Prof. Samy Assal (E-JUST, Egypt)
+Prof. Ahmed Fath (E-JUST, Egypt)
 {% endhighlight %}
 
 ## Seminars
