@@ -193,6 +193,105 @@ Prof. Ahmed ElGohary
 
 
 
+---
+ 
+# Day 1 Oct. 28 (Mon)
+
+
+## Welcome Ceremony
+
+~~~ xml
+Prof. Abdelfatah Mohamed
+Prof. Amr ElTawil
+Prof. Sameh Nada
+Prof. Goto Satoshi
+Prof. Suzuki Masaaki
+Prof. Ahmed ElGohary
+~~~
+ 
+ 
+## Plenary Seminars
+
+
+{% highlight elm %}
+11:30 - 12:30 Prof. Shigeki Sugano (Waseda)
+{% endhighlight %}
+
+{% highlight elm %}
+12:30 - 13:30 Prof. Mohamed Fanni (E-JUST, MTR)
+{% endhighlight %}
+
+{% highlight elm %}
+13:30 - 14:30 Prof. Tomoyuki Miyashita (Waseda)
+{% endhighlight %}
+
+{% highlight elm %}
+14:30 - 15:00 Eng. Ahmed Saad (Unilever)
+{% endhighlight %}
+
+{% highlight elm %}
+15:00 - 15:30 Plenary - FIBH (E-JUST)
+{% endhighlight %}
+
+---
+
+# Day 2 Oct. 29 (Tue)
+
+## Interactive Forum
+{% highlight csharp %}
+09:30 - 10:30 Interactive Forum
+{% endhighlight %}
+
+## Seminars on Selected Topics
+
+{% highlight coffeescript %}
+10:30 - 11:00 Seminar 1: Alumni or Student from MTR
+{% endhighlight %}
+
+{% highlight coffeescript %}
+10:30 - 11:00 Seminar 2: Alumni or Student from MTR
+{% endhighlight %}
+
+{% highlight coffeescript %}
+11:30 - 12:00 Seminar 3: Alumni or Student (TBD)
+{% endhighlight %}
+
+
+
+## Tutorials on Selected Topics
+
+{% highlight c %}
+14:00 - 14:30 Introduction to Competition Session
+{% endhighlight %}
+
+{% highlight coffeescript %}
+14:30 - 15:00 Tutorial 1: Object Manipulation using Scara Robot (Prof. Samy Assal, E-JUST)
+{% endhighlight %}
+
+{% highlight coffeescript %}
+15:00 - 15:30 Tutorial 2: Theory and Experiments using PiezoElectrics (Prof. Fath El Bab, E-JUST)
+{% endhighlight %}
+
+{% highlight coffeescript %}
+15:30 - 16:00 Tutorial 3: Theory and Experiments using Magnetic Levitation (Prof. Abdelfatah Mohamed, E-JUST)
+{% endhighlight %}
+
+---
+
+# Day 3 Oct. 30 (Wed)
+
+{% highlight abap %}
+09:30 - 11:30 Competition Session using a Mobile Robot on Line Following ()
+{% endhighlight %}
+
+
+{% highlight abap %}
+09:30 - 11:30 Competition Session (Mobile Robot, Line Following)
+{% endhighlight %}
+
+
+---
+
 ## Speakers
 
 #### Prof. Sugano Shigeki (Waseda University)
