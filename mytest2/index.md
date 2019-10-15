@@ -94,10 +94,12 @@ Prof. Miyashita Tomoyuki (Waseda University, Japan)
 Prof. Abdelfatah Mohamed (E-JUST, Egypt)
 Prof. Mohamed Fanni (E-JUST, Egypt)
 Prof. Samy Assal (E-JUST, Egypt)
-Prof. Ahmed Fath (E-JUST, Egypt)
+Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 {% endhighlight %}
 
 ## Seminars
+
+> Selected Topics in Mechatronics and Robotics
 
 {% highlight coffeescript %}
 10:30 - 11:00 Seminar 1: Alumni / Student from MTR (TBD)
@@ -108,6 +110,8 @@ Prof. Ahmed Fath (E-JUST, Egypt)
 ---
 
 ## Tutorials
+
+> Selected Topics in Mechatronics and Robotics
 
 {% highlight c %}
 14:00 - 14:30 Introduction to Competition Session (Dr. Victor and Dr. Moondeep, Waseda University)
