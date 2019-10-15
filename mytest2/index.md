@@ -17,15 +17,15 @@ comments: false
 ### Day 2 Oct. 29 (Tue)
 
 * 09:30 - 10:30 : Interactive Forum
-* 10:30 - 12:00 : [`Invited Seminars`](#speakers)
+* 10:30 - 12:00 : [`Invited Seminars`](#invited-seminars)
 * 12:00 - 13:30 : Lunch at E-JUST
-* 14:00 - 16:00 : [`Tutorials`](#speakers)
+* 14:00 - 16:00 : [`Tutorials`](#tutorials)
 
 ### Day 3 Oct. 30 (Wed)
 
-* 09:30 - 11:30 : [`Competitions`](#speakers)
-* 11:30 - 15:30 : [`Laboratory Sessions`](#speakers)
-* 15:30 - 16:00 : [`Closing Ceremony and Lunch`](#speakers)
+* 09:30 - 11:30 : [`Competitions`](#competitions)
+* 11:30 - 15:30 : [`Laboratory Sessions`](#laboratory-sessions)
+* 15:30 - 16:00 : Closing Ceremony and Lunch
 
 
 ---
@@ -87,14 +87,17 @@ Abstract
 
 ## Invited Seminars
 
-
 ---
 
 ## Tutorials
 
 ---
 
-## Competitions and Laboratory Session
+## Competitions
+
+---
+
+## Laboratory Sessions
 
 
 
