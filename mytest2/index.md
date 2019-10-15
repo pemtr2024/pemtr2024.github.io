@@ -10,7 +10,7 @@ comments: false
 
 ### Day 1 Oct. 28 (Mon)
 
-* 09:30 - 11:00 : [`Welcome Ceremony`](#welcome-ceremony)
+* 09:30 - 11:00 : [`Welcome Notes`](#welcome-notes)
 * 11:30 - 16:00 : [`Plenary Seminars`](#speakers)
 * 16:00 - 18:00 : Banquet at E-JUST
 
