@@ -8,21 +8,39 @@ comments: false
 
 ## A Glance
 
+
+### Welcome Ceremony
+
 ```
-Sample text here...
+* Prof. Abdelfatah Mohamed
+* Prof. Amr ElTawil
+* Prof. Sameh Nada
+* Prof. Goto Satoshi
+* Prof. Suzuki Masaaki
+* Prof. Ahmed ElGohary
 ```
 
+### Plenary Seminars
 
-​``` flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
+```
+* 11:30 – 12:30 Prof. Shigeki Sugano (Waseda)
+* 12:30 –13:30 Prof. Mohamed Fanni (E-JUST, MTR)
+* 13:30 – 14:30 Prof. Tomoyuki Miyashita (Waseda)
+* 14:30 – 15:00 Eng. Ahmed Saad (Unilever)
+* 15:00 – 15:30 Plenary from FIBH (E-JUST)
+```
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-​```
+### Interative Forum
+
+
+### Seminars
+
+```
+* 09:30 – 10:30 Interactive Forum: Professors (Q&A)
+* 10:30 – 11:00 Seminar 1: Alumni or Student from MTR
+* 11:00 – 11:30 Seminar 2: Student from Waseda
+* 11:30 – 12:00 Seminar 2: Victor or Moondeep (TBD)
+```
 
 
 ### Day 1 Oct. 28 (Mon)
