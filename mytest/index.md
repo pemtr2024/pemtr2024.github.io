@@ -12,9 +12,7 @@ comments: false
 
 
 <details>
-<summary>
-<h3>  &#9660; 09:30 - 11:00 : Welcome Ceremony </h3>
-</summary>
+<summary> <h3>  &#9660; 09:30 - 11:00 : Welcome Ceremony </h3> </summary>
 
 
 <div style="background-color:black;color:white;padding:20px;">
@@ -75,9 +73,7 @@ comments: false
 
 
 <details>
-<summary>
-<h3> 14:30 – 15:00 : Plenary Seminar by Eng. Ahmed Saad (Unilever) </h3>
-</summary>
+<summary> <h3> 14:30 – 15:00 : Plenary Seminar by Eng. Ahmed Saad (Unilever) </h3> </summary>
 
 
 <div style="background-color:black;color:white;padding:20px;">
