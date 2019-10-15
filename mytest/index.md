@@ -93,11 +93,11 @@ Prof. Ahmed ElGohary
 ### Plenary Seminars
 
 ~~~ autumn
-11:30 – 12:30 Prof. Shigeki Sugano (Waseda)
-12:30 –13:30 Prof. Mohamed Fanni (E-JUST, MTR)
-13:30 – 14:30 Prof. Tomoyuki Miyashita (Waseda)
-14:30 – 15:00 Eng. Ahmed Saad (Unilever)
-15:00 – 15:30 Plenary from FIBH (E-JUST)
+11:30 - 12:30 Prof. Shigeki Sugano (Waseda)
+12:30 - 13:30 Prof. Mohamed Fanni (E-JUST, MTR)
+13:30 - 14:30 Prof. Tomoyuki Miyashita (Waseda)
+14:30 - 15:00 Eng. Ahmed Saad (Unilever)
+15:00 - 15:30 Plenary from FIBH (E-JUST)
 ~~~
 
 ### Interative Forum
@@ -106,10 +106,10 @@ Prof. Ahmed ElGohary
 ### Seminars
 
 ```
-09:30 – 10:30 Interactive Forum: Professors (Q&A)
-10:30 – 11:00 Seminar 1: Alumni or Student from MTR
-11:00 – 11:30 Seminar 2: Student from Waseda
-11:30 – 12:00 Seminar 2: Victor or Moondeep (TBD)
+09:30 - 10:30 Interactive Forum: Professors (Q&A)
+10:30 - 11:00 Seminar 1: Alumni or Student from MTR
+11:00 - 11:30 Seminar 2: Student from Waseda
+11:30 - 12:00 Seminar 2: Victor or Moondeep (TBD)
 ```
 
 
