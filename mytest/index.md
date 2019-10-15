@@ -43,50 +43,18 @@ This text is used as a placeholder or a tk note. Words that will follow won't ma
 </details>
 
 
-
 ---
+
 
 <details>
 
 <summary>
-**Some txt**
+<bold>Some txt</bold>
 </summary>
 
 This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
 
-
 </details>
-
-
-
-## Data
-
-<h2>Conference Schedule</h2>
-<div class="schedule">
-
-  <h3 class="time-slot">8:00am</h3>
-  <div class="session session-1 track-1">
-    <h4 class="session-title"><a href="#">Session Title</a></h4>
-    <span class="session-time">8:00am - 9:00am</span>
-    <span class="session-track">Track 1</span>
-    <span class="session-presenter">Presenter Name</span>
-  </div>
-  <!-- Sessions 2, 3, 4 -->
-
-  <h3 class="time-slot">9:00am</h3>
-  <div class="session session-5 track-1">
-    <h4 class="session-title"><a href="#">Session Title</a></h4>
-    <span class="session-time">9:00am - 10:00am</span>
-    <span class="session-track">Track 1</span>
-    <span class="session-presenter">Presenter Name</span>
-  </div>
-  <!-- Sessions 6, 7, 8 -->
-
-  <!-- etc... -->
-
-</div> <!-- end .schedule -->
-
-
 
 
 * 11:30 – 16:00 : [Plenary Seminars]()
