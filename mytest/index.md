@@ -13,7 +13,7 @@ comments: false
 #### 09:30 - 11:00 : Welcome Ceremony 
 <details>
 <summary>
-&#9660; Details...  	&#9881; 
+&#9660; Details... 
 </summary>
 
 
@@ -49,8 +49,6 @@ Abstract
 
 Abstract
 {: .notice}
-
-
 
 
 
