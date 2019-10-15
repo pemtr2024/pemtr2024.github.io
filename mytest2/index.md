@@ -15,7 +15,7 @@ comments: false
 * 11:30 – 16:00 : `Plenary Seminars`(#speakers)
 * 11:30 – 16:00 : [`Plenary Seminars`](#speakers)
 * 11:30 – 16:00 : `[Plenary Seminars]`(#speakers)
-* 11:30 – 16:00 : <div markdown="0"><a href="#speakers" class="left">Plenary Seminars</a></div>
+* 11:30 – 16:00 : <div markdown="0"><a href="#speakers" class="btn">Plenary Seminars</a></div>
 * 16:00 – 18:00 : Banquet at E-JUST
 
 ### Day 2 Oct. 29 (Tue)
