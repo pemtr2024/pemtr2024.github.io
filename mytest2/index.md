@@ -100,9 +100,9 @@ Prof. Ahmed Fath (E-JUST, Egypt)
 ## Seminars
 
 {% highlight coffeescript %}
-10:30 - 11:00 Seminar 1: Alumni / Student from MTR
-11:00 - 11:30 Seminar 2: Student 
-11:30 - 12:00 Seminar 3: Student 
+10:30 - 11:00 Seminar 1: Alumni / Student from MTR (TBD)
+11:00 - 11:30 Seminar 2: PhD Student (TBD)
+11:30 - 12:00 Seminar 3: PhD Student (TBD)
 {% endhighlight %}
 
 ---
