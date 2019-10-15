@@ -12,6 +12,7 @@ comments: false
 
 <details>
 <summary> * 09:30 – 11:00 : Welcome Ceremony </summary>
+<p>
 
 ~~~ xml
 Prof. Abdelfatah Mohamed
@@ -22,6 +23,7 @@ Prof. Suzuki Masaaki
 Prof. Ahmed ElGohary
 ~~~
 
+</p>
 </details>
 
 
