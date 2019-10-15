@@ -11,7 +11,7 @@ comments: false
 ## Day 1 Oct. 28 (Mon)
 
 <details>
-<summary> * 09:30 – 11:00 : Welcome Ceremony </summary>
+<summary> 09:30 - 11:00 : Welcome Ceremony </summary>
 <p>
 
 ~~~ xml
@@ -21,7 +21,7 @@ Prof. Sameh Nada
 Prof. Goto Satoshi
 Prof. Suzuki Masaaki
 Prof. Ahmed ElGohary
-~~~
+\~~~
 
 </p>
 </details>
