@@ -16,7 +16,7 @@ comments: false
 
 ### Day 2 Oct. 29 (Tue)
 
-* 09:30 - 10:30 : Interactive Forum
+* 09:30 - 10:30 : [`Interactive Forum`](#forum)
 * 10:30 - 12:00 : [`Invited Seminars`](#invited-seminars)
 * 12:00 - 13:30 : Lunch at E-JUST
 * 14:00 - 16:00 : [`Tutorials`](#tutorials)
