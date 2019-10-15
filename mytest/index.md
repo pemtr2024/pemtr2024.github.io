@@ -21,8 +21,13 @@ comments: false
 ```
 
 
- <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
- <a href="/donate">DONATE</a>
+ <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: left; padding:40px 0;">
+ * Prof. Abdelfatah Mohamed
+* Prof. Amr ElTawil
+* Prof. Sameh Nada
+* Prof. Goto Satoshi
+* Prof. Suzuki Masaaki
+* Prof. Ahmed ElGohary
  </div>
  
  
