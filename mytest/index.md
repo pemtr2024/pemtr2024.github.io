@@ -70,15 +70,6 @@ comments: false
  
 ### Welcome Ceremony
 
-```
-* Prof. Abdelfatah Mohamed
-* Prof. Amr ElTawil
-* Prof. Sameh Nada
-* Prof. Goto Satoshi
-* Prof. Suzuki Masaaki
-* Prof. Ahmed ElGohary
-```
-
 
 ~~~ xml
 Prof. Abdelfatah Mohamed
