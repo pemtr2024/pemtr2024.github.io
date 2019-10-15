@@ -14,14 +14,14 @@ comments: false
 <summary> 09:30 - 11:00 : Welcome Ceremony </summary>
 <p>
 
-~~~ xml
+```c#
 Prof. Abdelfatah Mohamed
 Prof. Amr ElTawil
 Prof. Sameh Nada
 Prof. Goto Satoshi
 Prof. Suzuki Masaaki
 Prof. Ahmed ElGohary
-\~~~
+\```
 
 </p>
 </details>
