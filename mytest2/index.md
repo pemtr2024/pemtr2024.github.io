@@ -101,9 +101,9 @@ Prof. Ahmed Fath (E-JUST, Egypt)
 
 {% highlight coffeescript %}
 09:30 - 10:30 Interactive Forum: Professors (Q&A)
-10:30 - 11:00 Seminar 1: Alumni or Student from MTR
+10:30 - 11:00 Seminar 1: Alumni / Student from MTR
 11:00 - 11:30 Seminar 2: Student from Waseda
-11:30 - 12:00 Seminar 2: Victor or Moondeep (TBD)
+11:30 - 12:00 Seminar 2: Victor / Moondeep (TBD)
 {% endhighlight %}
 
 ---
