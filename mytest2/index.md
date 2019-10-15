@@ -7,7 +7,7 @@ feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/lecture4.jpg
 comments: false
 ---
 
-## A Glance
+## A Glance v2
 
 ### Day 1 Oct. 28 (Mon)
 
