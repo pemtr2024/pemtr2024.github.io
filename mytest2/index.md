@@ -120,7 +120,7 @@ Prof. Ahmed Fath (E-JUST, Egypt)
 
 ## Competitions
 
-{% highlight abap %}
+{% highlight coffeescript %}
 09:30 - 11:30 Competition Session / Mobile Robot / Line Following
 {% endhighlight %}
 
