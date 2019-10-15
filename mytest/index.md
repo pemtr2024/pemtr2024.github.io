@@ -92,7 +92,7 @@ Prof. Ahmed ElGohary
  
 ### Plenary Seminars
 
-~~~ autumn
+~~~ python
 11:30 - 12:30 Prof. Shigeki Sugano (Waseda)
 12:30 - 13:30 Prof. Mohamed Fanni (E-JUST, MTR)
 13:30 - 14:30 Prof. Tomoyuki Miyashita (Waseda)
