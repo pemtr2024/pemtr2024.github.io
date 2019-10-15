@@ -45,14 +45,14 @@ Prof. Ahmed ElGohary, E-JUST President
 
 ## Speakers
 
-#### Prof. Sugano Shigeki (Waseda University)
+#### [Prof. Sugano Shigeki](http://www.sugano.mech.waseda.ac.jp/) (Waseda University)
 
 ##### Title: TBD
 
 Abstract
 {: .notice}
 
-#### Prof. Miyashita Tomoyuki (Waseda University)
+#### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University)
 
 ##### Title: TBD
 
@@ -82,6 +82,15 @@ Abstract
 Abstract
 {: .notice}
 
+
+---
+
+## Speakers
+
+
+---
+
+## Speakers
 
 ---
 
