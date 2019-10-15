@@ -10,23 +10,23 @@ comments: false
 
 ### Day 1 Oct. 28 (Mon)
 
-* 09:30 – 11:00 : [`Welcome Ceremony`](#welcome-ceremony)
-* 11:30 – 16:00 : [`Plenary Seminars`](#speakers)
-* 16:00 – 18:00 : Banquet at E-JUST
+* 09:30 - 11:00 : [`Welcome Ceremony`](#welcome-ceremony)
+* 11:30 - 16:00 : [`Plenary Seminars`](#speakers)
+* 16:00 - 18:00 : Banquet at E-JUST
 
 ### Day 2 Oct. 29 (Tue)
 
-* 09:30 – 10:30 : Interactive Forum
-* 10:30 – 12:00 : Invited Talks
-* 12:00 – 13:30 : Lunch at E-JUST
-* 14:00 – 16:00 : Seminars on Selected Topics of Mechatronics and Robotics
+* 09:30 - 10:30 : Interactive Forum
+* 10:30 - 12:00 : [`Invited Seminars`](#speakers)
+* 12:00 - 13:30 : Lunch at E-JUST
+* 14:00 - 16:00 : [`Seminars on Selected Topics of Mechatronics and Robotics`](#speakers)
 
 ### Day 3 Oct. 30 (Wed)
 
-* 09:30 – 12:00 : Laboratory-based Sessions
-* 12:00 – 13:30 : Lunch at E-JUST
-* 13:30 – 15:30 : PBL-based Sessions
-* 15:30 – 16:00 : Closing Ceremony
+* 09:30 - 11:30 : [`PBL-based Sessions`](#speakers)
+* 13:30 - 15:30 : [`Laboratory-based Sessions`](#speakers)
+* 15:30 - 16:00 : [`Closing Ceremony and Lunch`](#speakers)
+
 
 
 ## Welcome Ceremony
