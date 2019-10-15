@@ -46,13 +46,14 @@ Prof. Ahmed ElGohary, E-JUST President
 ## Speakers
 
 #### [Prof. Sugano Shigeki](http://www.sugano.mech.waseda.ac.jp/) (Waseda University)
-
+##### 11:30 - 12:30
 > Title: TBD
 
 Abstract
 {: .notice}
 
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University)
+##### 13:30 - 14:30
 
 > Title: TBD
 
@@ -60,7 +61,7 @@ Abstract
 {: .notice}
 
 #### Prof. Mohamed Fanni (Egypt-Japan University of Science and Technology)
-
+##### 12:30 - 13:30
 > Title: TBD
 
 Abstract
@@ -68,7 +69,7 @@ Abstract
 
 
 #### Eng. Ahmed Saad (Unilever)
-
+##### 16:30 - 15:00
 > Title: World Class Manufacturing
 
 Abstract
@@ -76,7 +77,7 @@ Abstract
 
 
 #### Plenary Seminar from FIBH (Egypt-Japan University of Science and Technology)
-
+##### 15:00 - 15:30
 > Title: TBD
 
 Abstract
