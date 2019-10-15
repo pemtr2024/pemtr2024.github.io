@@ -29,6 +29,18 @@ comments: false
 * 15:30 – 16:00 : Closing Ceremony
 
 
+## Welcome Ceremony
+
+~~~ ruby
+Prof. Abdelfatah Mohamed, Organizing Chair, E-JUST
+Prof. Amr ElTawil, Dean of School of Innovative Design Engineering, E-JUST
+Prof. Sameh A. Nada, VicePresident of Education and Academic Affairs, E-JUST
+Prof. Goto Satoshi, Vice President of Research, E-JUST
+Prof. Suzuki Masaaki, Vice President of International and Regional Affairs, E-JUST
+Prof. Ahmed ElGohary, E-JUST President
+~~~
+
+
 ## Speakers
 
 #### Prof. Sugano Shigeki (Waseda University)
