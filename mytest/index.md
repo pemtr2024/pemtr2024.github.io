@@ -6,32 +6,6 @@ date: 2019-09-25
 comments: false
 ---
 
-## A Glance
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">DONATE</a>
-</div>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-<a href="/blog">VIEW THE BLOG</a>
-</div>
-    
-## A Glance
-
-
-<div class="container">
-  <h2> <small>Triggers on 767px</small> Responsive Tables Using LI </h2>
-</div>
-
-
-
-
-### XYZ
-
-| `git status` | List all *new or modified* files    Abstract {: .notice} |
-| `git diff` | Show file differences that **haven't been** staged |
-
----
 
  
 ### Welcome Ceremony
