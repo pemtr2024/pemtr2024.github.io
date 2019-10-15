@@ -10,25 +10,26 @@ comments: false
 
 ## Day 1 Oct. 28 (Mon)
 
+### 09:30 - 11:00 : Welcome Ceremony </summary>
+
 <details>
-<summary> 09:30 - 11:00 : Welcome Ceremony </summary>
-<p>
 
-```c#
-Prof. Abdelfatah Mohamed
-Prof. Amr ElTawil
-Prof. Sameh Nada
-Prof. Goto Satoshi
-Prof. Suzuki Masaaki
-Prof. Ahmed ElGohary
-```
+<summary>
+<b>Some txt</b>
+</summary>
 
-</p>
+
+<div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div> 
+
 
 </details>
 
 
-<details>
+
 
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
