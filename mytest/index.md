@@ -65,6 +65,46 @@ comments: false
   </div>
 </section>
 
+
+### Anther
+
+
+<section class="usa-section home-grid" markdown="0">
+  <div class="usa-grid md-flex">
+    <a href="{{ '/law/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
+      <i class="icon-large icon-gavel" aria-hidden="true"></i>
+      <div class="overflow-hidden">
+        <h3 class="arrow">Law and requirements</h3>
+        <p class="my0">Learn about the Plain Writing Act, policy memos, and executive orders that require agencies to use plain language.</p>
+      </div>
+    </a>
+    <a href="{{ '/guidelines/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
+      <i class="icon-large icon-pencil" aria-hidden="true"></i>
+      <div class="overflow-hidden">
+        <h3 class="arrow">Plain language guidelines</h3>
+        <p class="my0">Official writing guidelines for understanding your audience, being clear and concise, and testing your content.</p>
+      </div>
+    </a>
+  </div>
+  <div class="usa-grid md-flex">
+    <a href="{{ '/training/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
+      <i class="icon-large icon-graduation-cap" aria-hidden="true"></i>
+      <div class="overflow-hidden">
+        <h3 class="arrow">Training</h3>
+        <p class="my0">Request in-person training for your federal agency, or use our videos and materials to create your own class.</p>
+      </div>
+    </a>
+    <a href="{{ '/examples/' | relative_url }}" class="usa-width-one-half p3 lg-p4 clearfix">
+      <i class="icon-large icon-map-signs" aria-hidden="true"></i>
+      <div class="overflow-hidden">
+        <h3 class="arrow">Examples</h3>
+        <p class="my0">See plain language in action in a variety of regulations, legal documents, handbooks, and publications.</p>
+      </div>
+    </a>
+  </div>
+</section>
+
+
     
  
 ### Welcome Ceremony
