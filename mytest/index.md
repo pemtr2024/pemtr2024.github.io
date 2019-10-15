@@ -214,11 +214,11 @@ Prof. Ahmed ElGohary
 
 
 {% highlight elm %}
-11:30 - 12:30 Prof. Shigeki Sugano (Waseda)
+11:30 - 12:30 Plenary Talk by Prof. Shigeki Sugano (Waseda)
 {% endhighlight %}
 
 {% highlight elm %}
-12:30 - 13:30 Prof. Mohamed Fanni (E-JUST, MTR)
+12:30 - 13:30 Plenary Talk by Prof. Mohamed Fanni (E-JUST, MTR)
 {% endhighlight %}
 
 {% highlight elm %}
