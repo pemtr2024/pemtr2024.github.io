@@ -26,6 +26,8 @@ comments: false
 </details>
 
 
+<h2>London</h2>
+  
 #### 11:30 – 12:30 : Plenary Seminar by Prof. Sugano Shigeki (Waseda University)
 
 ##### Title: TBD
