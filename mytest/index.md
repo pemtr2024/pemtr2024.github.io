@@ -8,6 +8,18 @@ comments: false
 
 ## A Glance
 
+​```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+​```
+
+
 ### Day 1 Oct. 28 (Mon)
 
 * 09:30 – 11:00 : Welcome Ceremony
