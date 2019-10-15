@@ -28,7 +28,6 @@ comments: false
 * 11:30 - 15:30 : [`Laboratory Sessions`](#laboratory-sessions)
 * 15:30 - 16:00 : Closing Ceremony and Lunch
 
-
 ---
 ---
 
