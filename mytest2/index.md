@@ -85,20 +85,41 @@ Abstract
 
 ---
 
-## Invited Seminars
+## Forum and Invited Seminars
+
+{% highlight coffeescript %}
+09:30 - 10:30 Interactive Forum: Professors (Q&A)
+10:30 - 11:00 Seminar 1: Alumni or Student from MTR
+11:00 - 11:30 Seminar 2: Student from Waseda
+11:30 - 12:00 Seminar 2: Victor or Moondeep (TBD)
+{% endhighlight %}
 
 ---
 
 ## Tutorials
 
+{% highlight c %}
+14:00 - 14:30 Introduction to Competition Session
+14:30 - 15:00 Tutorial 1: Control of Scara Robot (Prof. Samy Assal)
+15:00 - 15:30 Tutorial 2: MEMS-related Topic (Prof. Fath El Bab)
+15:30 - 16:00 Tutorial 3: Control of Magnetic Levitation (Prof. Abdelfatah Mohamed)
+{% endhighlight %}
+
 ---
 
 ## Competitions
+
+{% highlight abap %}
+09:30 - 11:30 Competition Session using a Mobile Robot on Line Following ()
+{% endhighlight %}
 
 ---
 
 ## Laboratory Sessions
 
+{% highlight abap %}
+09:30 - 11:30 Competition Session (Mobile Robot, Line Following)
+{% endhighlight %}
 
 
 [Home](https://pemtr2019.github.io){: .btn}
