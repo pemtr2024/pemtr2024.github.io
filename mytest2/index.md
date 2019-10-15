@@ -99,10 +99,10 @@ Abstract
 ## Tutorials
 
 {% highlight c %}
-14:00 - 14:30 Introduction to Competition Session
-14:30 - 15:00 Tutorial 1: Control of Scara Robot (Prof. Samy Assal)
-15:00 - 15:30 Tutorial 2: MEMS-related Topic (Prof. Fath El Bab)
-15:30 - 16:00 Tutorial 3: Control of Magnetic Levitation (Prof. Abdelfatah Mohamed)
+14:00 - 14:30 Introduction to Competition Session (Dr. Victor and Dr. Moondeep, Waseda University)
+14:30 - 15:00 Tutorial 1: Object Manipulation using Scara Robot (Prof. Samy Assal, E-JUST)
+15:00 - 15:30 Tutorial 2: PiezoElectric Systems (Prof. Fath El Bab, E-JUST)
+15:30 - 16:00 Tutorial 3: Magnetic Levitation Systems (Prof. Abdelfatah Mohamed, E-JUST)
 {% endhighlight %}
 
 ---
