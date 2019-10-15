@@ -10,9 +10,9 @@ comments: false
 
 ### Day 1 Oct. 28 (Mon)
 
-* 09:30 – 11:00 : Welcome Ceremony
-* 11:30 – 16:00 : Plenary Seminars
-* 16:00 – 18:00 : Banquet at E-JUST
+#### 09:30 – 11:00 : Welcome Ceremony
+#### 11:30 – 16:00 : Plenary Seminars
+#### 16:00 – 18:00 : Banquet at E-JUST
 
 ### Day 2 Oct. 29 (Tue)
 
