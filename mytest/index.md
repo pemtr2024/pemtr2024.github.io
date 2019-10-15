@@ -11,7 +11,7 @@ comments: false
 # Day 1 Oct. 28 (Mon)
 
 
-## Welcom Ceremony
+## Welcome Ceremony
 
 ~~~ xml
 Prof. Abdelfatah Mohamed
@@ -72,7 +72,6 @@ Prof. Ahmed ElGohary
 09:30 – 11:30 Competition Session (Mobile Robot, Line Following)
 11:30 – 15:30 Laboratory Sessions and Experiments with Robots: All Professors
 {% endhighlight %}
-
 
 
 
