@@ -122,7 +122,7 @@ Prof. Ahmed Fath (E-JUST, Egypt)
 ## Competitions
 
 {% highlight abap %}
-09:30 - 11:30 Competition Session using a Mobile Robot on Line Following ()
+09:30 - 11:30 Competition Session / Mobile Robot / Line Following
 {% endhighlight %}
 
 ---
@@ -130,7 +130,7 @@ Prof. Ahmed Fath (E-JUST, Egypt)
 ## Laboratory Sessions
 
 {% highlight abap %}
-09:30 - 11:30 Competition Session (Mobile Robot, Line Following)
+11:30 - 15:30 Laboratory Sessions / Experiments / Mechatronics and Robotics Systems
 {% endhighlight %}
 
 
