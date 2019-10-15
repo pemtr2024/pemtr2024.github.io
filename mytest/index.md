@@ -33,8 +33,6 @@ comments: false
 
 ---
 
-
-
  
 ### Welcome Ceremony
 
@@ -64,12 +62,14 @@ Prof. Ahmed ElGohary
 
 ### Seminars
 
-```
+{% highlight html %}
 09:30 - 10:30 Interactive Forum: Professors (Q&A)
 10:30 - 11:00 Seminar 1: Alumni or Student from MTR
 11:00 - 11:30 Seminar 2: Student from Waseda
 11:30 - 12:00 Seminar 2: Victor or Moondeep (TBD)
-```
+{% endhighlight %}
+
+
 
 
 ### Day 1 Oct. 28 (Mon)
