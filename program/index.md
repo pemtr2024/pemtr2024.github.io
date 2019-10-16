@@ -109,9 +109,9 @@ Prof. Samy Assal (E-JUST, Egypt)
 Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 {% endhighlight %}
 
-## Seminars <br> <h5> Oct. 29 (Tue) </h5>
+## Seminars
 
-> Selected Topics in Mechatronics and Robotics
+> Oct. 29 (Tue) - Selected Topics in Mechatronics and Robotics
 
 {% highlight coffeescript %}
 10:30 - 11:00 Seminar 1: Alumni / Student from MTR (TBD)
