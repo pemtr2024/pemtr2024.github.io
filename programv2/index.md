@@ -59,8 +59,6 @@ Prof. Ahmed ElGohary, E-JUST President
 Abstract
 {: .notice}
  
-    
-
 
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
 ##### Professor, Department of Modern Mechanical Engineering
@@ -72,8 +70,7 @@ Abstract
 {: .notice}
 
 #### Prof. Mohamed Fanni (E-JUST, Egypt)
-##### Chairperson of Mechatronics and Robotics Engineering Department
-##### Professor, Department of Mechatronics and Robotics
+##### Chairperson of Mechatronics and Robotics Engineering Department <br> Professor, Department of Mechatronics and Robotics
 ##### 12:30 - 13:30
 > Title: Development of Innovative Mechatronic Systems from Idea to Prototype
 
