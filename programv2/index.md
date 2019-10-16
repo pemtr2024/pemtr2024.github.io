@@ -59,27 +59,10 @@ Abstract
 {: .notice}
 
 
-<div style="background-color:black;color:white;padding:5px;">
-  <h3>Prof. Sugano Shigeki (Waseda University, E-JUST)</h3>
+<div style="background-color:black;color:white;padding:2px;">
+  <h4>Prof. Sugano Shigeki (Waseda University, E-JUST)</h4>
 <p style="line-height: 1.1;">Dean, School / Graduate School of Creative Science and Engineering. <br> Professor, Department of Modern Mechanical Engineering.</p>
 </div> 
-
-
-<div class="Box">
-  <div class="Box-header">
-    <h3 class="Box-title">
-      Box title
-    </h3>
-  </div>
-  <div class="Box-body">
-    Box body
-  </div>
-  <div class="Box-footer">
-    Box footer
-  </div>
-</div>
-
-
 
 
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
