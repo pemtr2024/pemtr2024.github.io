@@ -59,9 +59,9 @@ Abstract
 {: .notice}
 
 
-<div style="background-color:black;color:white;padding:20px;">
-  <h3>Prof. Sugano Shigeki</h3>
-<p style="line-height: 1.1;">Dean, School / Graduate School of Creative Science and Engineering <br> Professor, Department of Modern Mechanical Engineering.</p>
+<div style="background-color:black;color:white;padding:5px;">
+  <h3>Prof. Sugano Shigeki (Waseda University, E-JUST)</h3>
+<p style="line-height: 1.1;">Dean, School / Graduate School of Creative Science and Engineering. <br> Professor, Department of Modern Mechanical Engineering.</p>
 </div> 
 
 
