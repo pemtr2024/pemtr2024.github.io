@@ -58,6 +58,13 @@ Prof. Ahmed ElGohary, E-JUST President
 Abstract
 {: .notice}
 
+
+<div style="background-color:black;color:white;padding:20px;">
+  <h3>Prof. Sugano Shigeki</h3>
+<p style="line-height: 1.1;">Dean, School / Graduate School of Creative Science and Engineering <br> Professor, Department of Modern Mechanical Engineering.</p>
+</div> 
+
+
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
 ##### Professor, Department of Modern Mechanical Engineering
 ##### 13:30 - 14:30
