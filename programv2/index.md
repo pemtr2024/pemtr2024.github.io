@@ -63,15 +63,6 @@ Abstract
 
 
 
-<div class="alert alert-success" role="alert">
-  <h4 class="alert-heading">Name</h4>
-  <p> Some subtitle.</p>
-  <hr>
-  <p class="mb-0">Test test test test test test test test test test test test test test test test test test test test.</p>
-  <hr>
-  <p class="mb-0">Test test test test test test test test test test test test test test test test test test test test.</p>
-</div>
-
 
 
 
