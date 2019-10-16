@@ -111,8 +111,7 @@ Prof. Samy Assal (E-JUST, Egypt)
 Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 {% endhighlight %}
 
-## Seminars
-### Oct. 29 (Tue)
+## Seminars <br> <h5> Oct. 29 (Tue) </h5>
 
 > Selected Topics in Mechatronics and Robotics
 
