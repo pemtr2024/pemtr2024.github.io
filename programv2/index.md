@@ -61,7 +61,11 @@ Abstract
 {: .notice}
  
 
-
+<div class="panel panel-primary">
+    <div class="panel-heading">Panel with panel-primary class</div>
+    <div class="panel-body">Panel Content</div>
+</div>
+    
 
 
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
