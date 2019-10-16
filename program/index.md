@@ -98,6 +98,7 @@ Abstract
 
 
 ## Forum
+### Oct. 29 (Tue)
 > Discussion Topic: Practical Education / Mechatronics and Robotics
 
 {% highlight coffeescript %}
@@ -111,6 +112,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 {% endhighlight %}
 
 ## Seminars
+### Oct. 29 (Tue)
 
 > Selected Topics in Mechatronics and Robotics
 
@@ -123,6 +125,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 ---
 
 ## Tutorials
+### Oct. 29 (Tue)
 
 > Selected Topics in Mechatronics and Robotics
 
@@ -136,6 +139,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 ---
 
 ## Competitions
+### Oct. 30 (Wed)
 
 {% highlight coffeescript %}
 09:30 - 11:30 Competition Session / Mobile Robot / Line Following
@@ -144,6 +148,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 ---
 
 ## Laboratory Sessions
+### Oct. 30 (Wed)
 
 {% highlight coffeescript %}
 11:30 - 15:30 Laboratory Sessions / Experiments / Robots 
