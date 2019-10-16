@@ -12,12 +12,14 @@ comments: false
 ### Day 1 Oct. 28 (Mon)
 
 * 09:30 - 11:00 : [`Welcome Notes`](#welcome-notes)
+* 11:00 - 11:30 : Break
 * 11:30 - 16:00 : [`Plenary Seminars`](#speakers)
-* 16:00 - 18:00 : Banquet at E-JUST
+* 16:00 - 18:00 : Lunch at E-JUST
 
 ### Day 2 Oct. 29 (Tue)
 
 * 09:30 - 10:30 : [`Interactive Forum`](#forum)
+* 10:00 - 10:30 : Break
 * 10:30 - 12:00 : [`Seminars`](#seminars)
 * 12:00 - 13:30 : Lunch at E-JUST
 * 14:00 - 16:00 : [`Tutorials`](#tutorials)
@@ -25,7 +27,8 @@ comments: false
 ### Day 3 Oct. 30 (Wed)
 
 * 09:30 - 11:30 : [`Competitions`](#competitions)
-* 11:30 - 15:30 : [`Laboratory Sessions`](#laboratory-sessions)
+* 11:30 - 12:00 : Break
+* 12:00 - 15:30 : [`Laboratory Sessions`](#laboratory-sessions)
 * 15:30 - 16:00 : Closing Ceremony and Lunch
 
 ---
@@ -63,9 +66,9 @@ Abstract
 
 #### Prof. Mohamed Fanni (E-JUST, Egypt)
 ##### 12:30 - 13:30
-> Title: TBD
+> Title: Development of Innovative Mechatronic Systems from Idea to Prototype
 
-Abstract
+The presentation introduces the recent research activities that are carried out at Mechatronics and Robotics Engineering Department. The presentation focuses on illustrating how an innovative idea is processed to end up with working prototype. The presentation outlines some mechatronic projects such as aerial-ground robot manipulation system, inspection climbing robot, new industrial robot, parallel surgical robot, wearable vehicle, insect killing robot, flapping wing air vehicle with jumping mechanism, piezoelectrical morphing wing air vehicle, synthesis of a hybrid brain for a humanoid robot, wind turbine with hybrid  magnetic bearing, and robot with multiple contactless joints. All these projects start with proposing some conceptual designs. After preliminary analysis, the most promising concept is selected for detailed design. Finite element analysis is carried out to check the strength and rigidity of the design. Dynamic modeling of the system is made and the controller is designed. Dynamic simulation is carried out using professional software to check the controller and the dynamic performance of the system. The actuators, sensors, and electronic interfaces are selected. A prototype is then manufactured and tested.
 {: .notice}
 
 
@@ -77,7 +80,7 @@ Abstract
 {: .notice}
 
 
-#### Plenary Seminar from FIBH (E-JUST, Egyp)
+#### Plenary Seminar from FIBH (E-JUST, Egypt)
 ##### 15:00 - 15:30
 > Title: TBD
 
@@ -94,6 +97,7 @@ Abstract
 Prof. Sugano Shigeki (Waseda University, Japan)
 Prof. Miyashita Tomoyuki (Waseda University, Japan)
 Prof. Abdelfatah Mohamed (E-JUST, Egypt)
+Prof. Sabah Ahmed (E-JUST, Egypt)
 Prof. Mohamed Fanni (E-JUST, Egypt)
 Prof. Samy Assal (E-JUST, Egypt)
 Prof. Ahmed Fath El Bab (E-JUST, Egypt)
