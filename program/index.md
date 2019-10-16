@@ -125,9 +125,8 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 ---
 
 ## Tutorials
-#### Oct. 29 (Tue)
 
-> Selected Topics in Mechatronics and Robotics
+> Oct. 29 (Tue) -  Selected Topics in Mechatronics and Robotics
 
 {% highlight c %}
 14:00 - 14:30 Introduction to Competition Session (Dr. Victor and Dr. Moondeep, Waseda University)
@@ -139,7 +138,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 ---
 
 ## Competitions
-### Oct. 30 (Wed)
+> Oct. 30 (Wed) - Activities based on PBL 
 
 {% highlight coffeescript %}
 09:30 - 11:30 Competition Session / Mobile Robot / Line Following
@@ -148,7 +147,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 ---
 
 ## Laboratory Sessions
-### Oct. 30 (Wed)
+> Oct. 30 (Wed) - Hands-on Experiments with Mechatronics and Robotics Hardware
 
 {% highlight coffeescript %}
 11:30 - 15:30 Laboratory Sessions / Experiments / Robots 
