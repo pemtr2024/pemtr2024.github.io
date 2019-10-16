@@ -51,8 +51,7 @@ Prof. Ahmed ElGohary, E-JUST President
 
 #### [Prof. Sugano Shigeki](http://www.sugano.mech.waseda.ac.jp/) (Waseda University, Japan)
 
-Dean, School / Graduate School of Creative Science and Engineering <br> 
-Professor, Department of Modern Mechanical Engineering.
+##### Dean, School / Graduate School of Creative Science and Engineering <br>  Professor, Department of Modern Mechanical Engineering.
 
 11:30 - 12:30
 > Title: TBD
@@ -60,11 +59,6 @@ Professor, Department of Modern Mechanical Engineering.
 Abstract
 {: .notice}
  
-
-<div class="panel panel-primary">
-    <div class="panel-heading">Panel with panel-primary class</div>
-    <div class="panel-body">Panel Content</div>
-</div>
     
 
 
