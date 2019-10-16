@@ -59,12 +59,7 @@ Professor, Department of Modern Mechanical Engineering.
 
 Abstract
 {: .notice}
-
-
- <div class="w3-panel w3-blue w3-round-xlarge">
-  <p>London is the most populous city in the United Kingdom,
-  with a metropolitan area of over 9 million inhabitants.</p>
-</div> 
+ 
 
 
 
