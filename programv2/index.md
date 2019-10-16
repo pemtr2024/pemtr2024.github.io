@@ -54,12 +54,25 @@ Prof. Ahmed ElGohary, E-JUST President
 Dean, School / Graduate School of Creative Science and Engineering <br> 
 Professor, Department of Modern Mechanical Engineering.
 
-
 11:30 - 12:30
 > Title: TBD
 
 Abstract
 {: .notice}
+
+
+
+
+<div class="alert alert-success" role="alert">
+  <h4 class="alert-heading">Name</h4>
+  <p> Some subtitle.</p>
+  <hr>
+  <p class="mb-0">Test test test test test test test test test test test test test test test test test test test test.</p>
+  <hr>
+  <p class="mb-0">Test test test test test test test test test test test test test test test test test test test test.</p>
+</div>
+
+
 
 
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
