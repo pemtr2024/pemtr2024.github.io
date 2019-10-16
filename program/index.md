@@ -50,10 +50,8 @@ Prof. Ahmed ElGohary, E-JUST President
 ## Speakers
 
 #### [Prof. Sugano Shigeki](http://www.sugano.mech.waseda.ac.jp/) (Waseda University, Japan)
-
 ##### Dean, School / Graduate School of Creative Science and Engineering <br>  Professor, Department of Modern Mechanical Engineering.
-
-11:30 - 12:30
+##### 11:30 - 12:30
 > Title: Robot and AI  -Embodiment Informatics-
 
 Robot is a System Integration Technology. Most of the elements of robots are based on the fundamental Mechanical Engineering and Computer Science. It is called “Embodiment Informatics”. Recently, Embodiment Informatics includes AI technologies so that it has made rapid progress. In this presentation, I will introduce the concept of Embodiment Informatics, Waseda robots with their history and key-technologies, recent progress of AI-implementation in the robots, and an example of Nursing-Care Robots development.
