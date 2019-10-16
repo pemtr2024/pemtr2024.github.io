@@ -51,9 +51,7 @@ Prof. Ahmed ElGohary, E-JUST President
 
 #### [Prof. Sugano Shigeki](http://www.sugano.mech.waseda.ac.jp/) (Waseda University, Japan)
 ##### Dean, School / Graduate School of Creative Science and Engineering 
-##### Professor
-Department of Modern Mechanical Engineering
-
+##### Professor, Department of Modern Mechanical Engineering
 ##### 11:30 - 12:30
 > Title: TBD
 
@@ -61,6 +59,7 @@ Abstract
 {: .notice}
 
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
+##### Professor, Department of Modern Mechanical Engineering
 ##### 13:30 - 14:30
 
 > Title: TBD
@@ -69,6 +68,8 @@ Abstract
 {: .notice}
 
 #### Prof. Mohamed Fanni (E-JUST, Egypt)
+##### Chairperson of Mechatronics and Robotics Engineering Department
+##### Professor, Department of Mechatronics and Robotics
 ##### 12:30 - 13:30
 > Title: Development of Innovative Mechatronic Systems from Idea to Prototype
 
@@ -77,6 +78,7 @@ The presentation introduces the recent research activities that are carried out 
 
 
 #### Eng. Ahmed Saad (Unilever, Egypt)
+##### Manufacturing Excellence Manager
 ##### 16:30 - 15:00
 > Title: World Class Manufacturing
 
