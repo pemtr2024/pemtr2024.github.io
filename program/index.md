@@ -58,15 +58,6 @@ Robot is a System Integration Technology. Most of the elements of robots are bas
 {: .notice}
  
 
-#### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
-##### Professor, Department of Modern Mechanical Engineering
-##### 13:30 - 14:30
-
-> Title: TBD
-
-Abstract
-{: .notice}
-
 #### Prof. Mohamed Fanni (E-JUST, Egypt)
 ##### Chairperson of Mechatronics and Robotics Engineering Department <br> Professor, Department of Mechatronics and Robotics
 ##### 12:30 - 13:30
@@ -76,21 +67,33 @@ The presentation introduces the recent research activities that are carried out 
 {: .notice}
 
 
+#### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
+##### Professor, Department of Modern Mechanical Engineering
+##### 13:30 - 14:30
+
+> Title: TBD
+
+Abstract
+{: .notice}
+
+
 #### Eng. Ahmed Saad (Unilever, Egypt)
 ##### Manufacturing Excellence Manager
-##### 16:30 - 15:00
+##### 15:00 - 15:30
 > Title: World Class Manufacturing
 
 Abstract
 {: .notice}
 
-
-#### TBD
+#### Prof. Adel Rayan (Egypt-Japan University of Science and Technology)
 ##### 15:00 - 15:30
 > Title: TBD
 
 Abstract
 {: .notice}
+
+
+
 
 ---
 
