@@ -13,9 +13,9 @@ comments: false
 
 * 09:30 - 10:00 : Registration
 * 10:00 - 11:00 : [`Welcome Notes`](#welcome-notes)
-* 11:00 - 11:30 : Break
-* 11:30 - 16:00 : [`Plenary Seminars @ Theater`](#speakers)
-* 16:00 - 18:00 : Lunch at E-JUST
+* 11:00 - 13:00 : [`Plenary Seminars - Part 1 @ Theater`](#speakers)
+* 13:00 - 14:00 : Lunch at E-JUST
+* 14:00 - 16:00 : [`Plenary Seminars - Part 2 @ Theater`](#speakers)
 
 ### Day 2 Oct. 29 (Tue)
 
@@ -26,10 +26,10 @@ comments: false
 
 ### Day 3 Oct. 30 (Wed)
 
-* 09:30 - 11:30 : [`Competitions @ HQ - Room 107-108`](#competitions)
-* 11:30 - 12:00 : Break
-* 12:00 - 15:30 : [`Laboratory Sessions @ MTR, Building 13`](#laboratory-sessions)
-* 15:30 - 16:00 : Closing Ceremony and Lunch
+* 10:00 - 12:00 : [`Competitions @ HQ - Room 107-108`](#competitions)
+* 12:00 - 13:00 : Lunch
+* 13:00 - 15:30 : [`Laboratory Sessions @ MTR, Building 13`](#laboratory-sessions)
+* 15:30 - 16:00 : Closing Ceremony
 
 ---
 ---
@@ -51,7 +51,7 @@ Prof. Ahmed ElGohary, E-JUST President
 
 #### [Prof. Sugano Shigeki](http://www.sugano.mech.waseda.ac.jp/) (Waseda University, Japan)
 ##### Dean, School / Graduate School of Creative Science and Engineering <br>  Professor, Department of Modern Mechanical Engineering.
-##### 11:30 - 12:30
+##### 11:00 - 12:00
 > Title: Robot and AI  -Embodiment Informatics-
 
 Robot is a System Integration Technology. Most of the elements of robots are based on the fundamental Mechanical Engineering and Computer Science. It is called “Embodiment Informatics”. Recently, Embodiment Informatics includes AI technologies so that it has made rapid progress. In this presentation, I will introduce the concept of Embodiment Informatics, Waseda robots with their history and key-technologies, recent progress of AI-implementation in the robots, and an example of Nursing-Care Robots development.
@@ -60,7 +60,7 @@ Robot is a System Integration Technology. Most of the elements of robots are bas
 
 #### Prof. Mohamed Fanni (E-JUST, Egypt)
 ##### Chairperson of Mechatronics and Robotics Engineering Department <br> Professor, Department of Mechatronics and Robotics
-##### 12:30 - 13:30
+##### 12:00 - 13:00
 > Title: Development of Innovative Mechatronic Systems from Idea to Prototype
 
 The presentation introduces the recent research activities that are carried out at Mechatronics and Robotics Engineering Department. The presentation focuses on illustrating how an innovative idea is processed to end up with working prototype. The presentation outlines some mechatronic projects such as aerial-ground robot manipulation system, inspection climbing robot, new industrial robot, parallel surgical robot, wearable vehicle, insect killing robot, flapping wing air vehicle with jumping mechanism, piezoelectrical morphing wing air vehicle, synthesis of a hybrid brain for a humanoid robot, wind turbine with hybrid  magnetic bearing, and robot with multiple contactless joints. All these projects start with proposing some conceptual designs. After preliminary analysis, the most promising concept is selected for detailed design. Finite element analysis is carried out to check the strength and rigidity of the design. Dynamic modeling of the system is made and the controller is designed. Dynamic simulation is carried out using professional software to check the controller and the dynamic performance of the system. The actuators, sensors, and electronic interfaces are selected. A prototype is then manufactured and tested.
@@ -69,7 +69,7 @@ The presentation introduces the recent research activities that are carried out 
 
 #### [Prof. Miyashita Tomoyuki](http://www.miyashita.mmech.waseda.ac.jp/) (Waseda University, Japan)
 ##### Professor, Department of Modern Mechanical Engineering
-##### 13:30 - 14:30
+##### 14:00 - 15:00
 
 > Title: TBD
 
@@ -79,7 +79,7 @@ Abstract
 
 #### Eng. Ahmed Saad (Unilever, Egypt)
 ##### Manufacturing Excellence Manager
-##### 14:30 - 15:00
+##### 15:00 - 15:30
 > Title: World Class Manufacturing
 
 Abstract
@@ -87,14 +87,11 @@ Abstract
 
 #### Prof. Adel Rayan (Egypt-Japan University of Science and Technology)
 ##### Dean of Faculty of International Business and Humanities (FIBH).
-##### 15:00 - 15:30
+##### 15:30 - 16:00
 > Title: TBD
 
 Abstract
 {: .notice}
-
-
-
 
 ---
 
@@ -141,7 +138,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 > Oct. 30 (Wed) - Activities based on PBL 
 
 {% highlight coffeescript %}
-09:30 - 11:30 Competition Session / Mobile Robot / Line Following
+10:00 - 12:00 Competition Session / Mobile Robot / Line Following
 {% endhighlight %}
 
 ---
@@ -150,7 +147,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 > Oct. 30 (Wed) - Hands-on Experiments with Mechatronics and Robotics Hardware
 
 {% highlight coffeescript %}
-11:30 - 15:30 Laboratory Sessions / Experiments / Robots 
+13:00 - 15:30 Laboratory Sessions / Experiments / Robots 
 {% endhighlight %}
 
 
