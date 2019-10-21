@@ -19,7 +19,7 @@ comments: false
 
 ### Day 2 Oct. 29 (Tue)
 
-* 09:30 - 11:00 : [`Interactive Forum`](#forum)
+* 09:30 - 11:00 : [`Interactive Forum @ HQ - Room 109`](#forum)
 * 11:00 - 12:00 : [`Seminars @ HQ - Room 109`](#seminars)
 * 12:00 - 13:30 : Lunch at E-JUST
 * 14:00 - 16:00 : [`Tutorials`](#tutorials)
