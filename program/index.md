@@ -12,10 +12,10 @@ comments: false
 ### Day 1 Oct. 28 (Mon)
 
 * 09:30 - 10:00 : Registration
-* 10:00 - 11:00 : [`Welcome Notes`](#welcome-notes)
-* 11:00 - 13:00 : [`Plenary Seminars - Part 1 @ Theater`](#speakers)
+* 10:00 - 11:00 : [`Welcome Notes @ Theater`](#welcome-notes)
+* 11:00 - 13:00 : [`Plenary Seminars, Part 1 @ Theater`](#speakers)
 * 13:00 - 14:00 : Lunch at E-JUST
-* 14:00 - 16:00 : [`Plenary Seminars - Part 2 @ Theater`](#prof-miyashita-tomoyuki-waseda-university-japan)
+* 14:00 - 16:00 : [`Plenary Seminars, Part 2 @ Theater`](#prof-miyashita-tomoyuki-waseda-university-japan)
 
 ### Day 2 Oct. 29 (Tue)
 
@@ -26,8 +26,8 @@ comments: false
 
 ### Day 3 Oct. 30 (Wed)
 
-* 10:00 - 12:00 : [`Competitions @ HQ - Room 107-108`](#competitions)
-* 12:00 - 13:00 : Lunch
+* 10:00 - 12:00 : [`Competitions @ HQ - Room 103-105`](#competitions)
+* 12:00 - 13:00 : Lunch at E-JUST
 * 13:00 - 15:30 : [`Laboratory Sessions @ MTR, Building 13`](#laboratory-sessions)
 * 15:30 - 16:00 : Closing Ceremony
 
