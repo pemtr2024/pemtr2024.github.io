@@ -83,14 +83,7 @@ Abstract
 > Title: World Class Manufacturing
 
 What is World Class Manufacturing? 
-World Class Manufacturing (WCM) is a structured and integrated production system that involves all site’s processes and the entire organization from top to shop floor people. WCM's target is to continuously improve site’s performance eliminating waste & losses
-
-WCM Ambition
-        “Zero Gaps” - Growing skills and Capability 
-        Zero Accident & First Aid
-        Zero quality defects & customer claims
-        Zero machine breakdown
-        Zero waste & losses        
+World Class Manufacturing (WCM) is a structured and integrated production system that involves all site’s processes and the entire organization from top to shop floor people. WCM's target is to continuously improve site’s performance eliminating waste & losses. WCM's ambition are (1) “Zero Gaps” - Growing skills and Capability, (2) Zero Accident & First Aid, (3) Zero quality defects & customer claims, (4) Zero machine breakdown, (5) Zero waste & losses.
 {: .notice}
 
 #### Prof. Adel Rayan (Egypt-Japan University of Science and Technology)
