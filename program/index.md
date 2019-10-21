@@ -14,7 +14,7 @@ comments: false
 * 09:30 - 10:00 : Registration
 * 10:00 - 11:00 : [`Welcome Notes`](#welcome-notes)
 * 11:00 - 11:30 : Break
-* 11:30 - 16:00 : [`Plenary Seminars`](#speakers)
+* 11:30 - 16:00 : [`Plenary Seminars @ Theater`](#speakers)
 * 16:00 - 18:00 : Lunch at E-JUST
 
 ### Day 2 Oct. 29 (Tue)
