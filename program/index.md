@@ -86,6 +86,7 @@ Abstract
 {: .notice}
 
 #### Prof. Adel Rayan (Egypt-Japan University of Science and Technology)
+##### Dean of Faculty of International Business and Humanities (FIBH).
 ##### 15:00 - 15:30
 > Title: TBD
 
