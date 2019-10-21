@@ -20,15 +20,15 @@ comments: false
 ### Day 2 Oct. 29 (Tue)
 
 * 09:30 - 11:00 : [`Interactive Forum`](#forum)
-* 11:00 - 12:00 : [`Seminars`](#seminars)
+* 11:00 - 12:00 : [`Seminars @ HQ - Room 109`](#seminars)
 * 12:00 - 13:30 : Lunch at E-JUST
 * 14:00 - 16:00 : [`Tutorials`](#tutorials)
 
 ### Day 3 Oct. 30 (Wed)
 
-* 09:30 - 11:30 : [`Competitions`](#competitions)
+* 09:30 - 11:30 : [`Competitions @ HQ - Room 107-108`](#competitions)
 * 11:30 - 12:00 : Break
-* 12:00 - 15:30 : [`Laboratory Sessions`](#laboratory-sessions)
+* 12:00 - 15:30 : [`Laboratory Sessions @ MTR, Building 13`](#laboratory-sessions)
 * 15:30 - 16:00 : Closing Ceremony and Lunch
 
 ---
