@@ -11,16 +11,16 @@ comments: false
 
 ### Day 1 Oct. 28 (Mon)
 
-* 09:30 - 11:00 : [`Welcome Notes`](#welcome-notes)
+* 09:30 - 10:00 : Registration
+* 10:00 - 11:00 : [`Welcome Notes`](#welcome-notes)
 * 11:00 - 11:30 : Break
 * 11:30 - 16:00 : [`Plenary Seminars`](#speakers)
 * 16:00 - 18:00 : Lunch at E-JUST
 
 ### Day 2 Oct. 29 (Tue)
 
-* 09:30 - 10:30 : [`Interactive Forum`](#forum)
-* 10:00 - 10:30 : Break
-* 10:30 - 12:00 : [`Seminars`](#seminars)
+* 09:30 - 11:00 : [`Interactive Forum`](#forum)
+* 11:00 - 12:00 : [`Seminars`](#seminars)
 * 12:00 - 13:30 : Lunch at E-JUST
 * 14:00 - 16:00 : [`Tutorials`](#tutorials)
 
