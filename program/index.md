@@ -15,7 +15,7 @@ comments: false
 * 10:00 - 11:00 : [`Welcome Notes`](#welcome-notes)
 * 11:00 - 13:00 : [`Plenary Seminars - Part 1 @ Theater`](#speakers)
 * 13:00 - 14:00 : Lunch at E-JUST
-* 14:00 - 16:00 : [`Plenary Seminars - Part 2 @ Theater`](#speakers)
+* 14:00 - 16:00 : [`Plenary Seminars - Part 2 @ Theater`](#prof-miyashita-tomoyuki-waseda-university-japan)
 
 ### Day 2 Oct. 29 (Tue)
 
