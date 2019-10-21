@@ -28,7 +28,7 @@ comments: false
 
 * 10:00 - 12:00 : [`Competitions @ HQ - Room 103-105`](#competitions)
 * 12:00 - 13:00 : Lunch at E-JUST
-* 13:00 - 15:30 : [`Laboratory Sessions @ MTR, Building 13`](#laboratory-sessions)
+* 13:00 - 15:30 : [`Laboratory Sessions @ MTR (Building 13)`](#laboratory-sessions)
 * 15:30 - 16:00 : Closing Ceremony
 
 ---
