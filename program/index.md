@@ -79,7 +79,7 @@ Abstract
 
 #### Eng. Ahmed Saad (Unilever, Egypt)
 ##### Manufacturing Excellence Manager
-##### 15:00 - 15:30
+##### 14:30 - 15:00
 > Title: World Class Manufacturing
 
 Abstract
