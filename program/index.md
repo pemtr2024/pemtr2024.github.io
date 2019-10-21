@@ -115,8 +115,9 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 > Oct. 29 (Tue) - Selected Topics in Mechatronics and Robotics
 
 {% highlight coffeescript %}
-11:00 - 11:30 Seminar 1: PhD Student (Waseda University)
-11:30 - 12:00 Seminar 2: PhD Student (Waseda University)
+11:00 - 11:20 Seminar 1: PhD Student (Waseda University)
+11:20 - 11:40 Seminar 2: PhD Student (Waseda University)
+11:40 - 12:00 Seminar 3: PhD Student (Waseda University)
 {% endhighlight %}
 
 ---
