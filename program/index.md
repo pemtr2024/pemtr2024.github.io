@@ -114,6 +114,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 {% endhighlight %}
 
 ## Seminars
+#### 11:00 - 12:00
 
 > Oct. 29 (Tue) - Selected Topics in Mechatronics and Robotics
 
