@@ -72,9 +72,9 @@ The presentation introduces the recent research activities that are carried out 
 ##### Professor, Department of Modern Mechanical Engineering
 ##### 14:00 - 15:00
 
-> Title: TBD
+> Title: Machine and Human - Interface and Control
 
-Abstract
+The (machine's) dynamical behavior is often governed by a control mechanism and user commands from an interface. In this seminar, I will introduce a number of researches aiming to improve machine performance and user sensation within the context of vehicles and drones. Also, the design of vehicle seats considering the driver's behaviour will be introduced, and the stability of drone performance against disturbances by Control Moment Gyroscope (CMG) and user controller will also be introduced.
 {: .notice}
 
 
@@ -90,9 +90,9 @@ World Class Manufacturing (WCM) is a structured and integrated production system
 #### Prof. Adel Rayan (Egypt-Japan University of Science and Technology)
 ##### Dean of Faculty of International Business and Humanities (FIBH).
 ##### 15:30 - 16:00
-> Title: TBD
+> Title: Managing Innovation at the University: Business aspects of Innovation
 
-Abstract
+The subject title of this talk is about how innovative ideas are developed to be a final product. The role of creativity in innovation, the innovation process and the innovation stakeholders. The role of the university and industry in supporting and commercializing innovations.
 {: .notice}
 
 ---
