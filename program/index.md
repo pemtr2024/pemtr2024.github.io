@@ -132,7 +132,7 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 
 {% highlight c %}
 14:00 - 14:30 Introduction to Competition Session (Dr. Victor and Dr. Moondeep, Waseda University)
-14:30 - 15:00 Tutorial 1: Object Manipulation using Scara Robot (Prof. Samy Assal, E-JUST)
+14:30 - 15:00 Tutorial 1: Pick and place operation by SCARA robot (Prof. Samy Assal, E-JUST)
 15:00 - 15:30 Tutorial 2: Piezoelectricity for Sensors and Actuators (Prof. Fath El Bab, E-JUST)
 15:30 - 16:00 Tutorial 3: A Tutorial on Magnetic Suspension Systems (Prof. Abdelfatah Mohamed, E-JUST)
 {% endhighlight %}
