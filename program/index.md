@@ -39,11 +39,10 @@ comments: false
 
 ~~~ html
 10:00 - 10:10 Prof. Abdelfatah Mohamed, Organizing Chair, Professor at The Department of Mechatronics and Robotics, E-JUST
-10:10 - 10:20 Prof. Amr ElTawil, Dean of School of Innovative Design Engineering, E-JUST
-10:20 - 10:30 Prof. Sameh A. Nada, Vice President of Education and Academic Affairs, E-JUST
-10:30 - 10:40 Prof. Goto Satoshi, Vice President of Research, E-JUST
-10:40 - 10:50 Prof. Suzuki Masaaki, Vice President of International and Regional Affairs, E-JUST
-10:50 - 11:00 Prof. Ahmed ElGohary, E-JUST President
+10:10 - 10:20 Prof. Sameh A. Nada, Vice President of Education and Academic Affairs, E-JUST
+10:20 - 10:30 Prof. Goto Satoshi, Vice President of Research, E-JUST
+10:30 - 10:40 Prof. Ahmed ElGohary, E-JUST President
+10:40 - 11:00 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
 ~~~
 
 ---
