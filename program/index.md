@@ -130,9 +130,9 @@ Prof. Ahmed Fath El Bab (E-JUST, Egypt)
 > Oct. 29 (Tue) -  Selected Topics in Mechatronics and Robotics
 
 {% highlight c %}
-14:00 - 14:30 A Tutorial on Magnetic Suspension Systems (Prof. Abdelfatah Mohamed, E-JUST)
-14:30 - 15:00 Tutorial 1: Pick and place operation by SCARA robot (Prof. Samy Assal, E-JUST)
-15:00 - 15:30 Tutorial 2: Introduction to Competition Session (Dr. Victor and Dr. Moondeep, Waseda University)
+14:00 - 14:30 Tutorial 1: A Tutorial on Magnetic Suspension Systems (Prof. Abdelfatah Mohamed, E-JUST)
+14:30 - 15:00 Tutorial 2: Pick and place operation by SCARA robot (Prof. Samy Assal, E-JUST)
+15:00 - 15:30 Tutorial 3: Introduction to Competition Session (Dr. Victor and Dr. Moondeep, Waseda University)
 {% endhighlight %}
 
 
