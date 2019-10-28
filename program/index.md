@@ -103,13 +103,13 @@ The subject title of this talk is about how innovative ideas are developed to be
 > Discussion Topic: Practical Education / Mechatronics and Robotics
 
 {% highlight coffeescript %}
-Prof. Sugano Shigeki (Waseda University, Japan)
-Prof. Miyashita Tomoyuki (Waseda University, Japan)
 Prof. Abdelfatah Mohamed (E-JUST, Egypt)
 Prof. Sabah Ahmed (E-JUST, Egypt)
 Prof. Mohamed Fanni (E-JUST, Egypt)
 Prof. Samy Assal (E-JUST, Egypt)
 Prof. Ahmed Fath El Bab (E-JUST, Egypt)
+Prof. Sugano Shigeki (Waseda University, Japan)
+Prof. Miyashita Tomoyuki (Waseda University, Japan)
 {% endhighlight %}
 
 ## Seminars
