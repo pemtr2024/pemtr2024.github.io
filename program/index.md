@@ -118,9 +118,9 @@ Prof. Miyashita Tomoyuki (Waseda University, Japan)
 > Oct. 29 (Tue) - Selected Topics in Mechatronics and Robotics
 
 {% highlight coffeescript %}
-11:00 - 11:20 Seminar 1: PhD Student (Waseda University)
-11:20 - 11:40 Seminar 2: PhD Student (Waseda University)
-11:40 - 12:00 Seminar 3: PhD Student (Waseda University)
+11:00 - 11:20 Seminar 1: ZHANG Peizhi (Waseda University)
+11:20 - 11:40 Seminar 2: HOLGADO Alexis Carlos (Waseda University)
+11:40 - 12:00 Seminar 3: HSU Chin-Cheng (Waseda University)
 {% endhighlight %}
 
 ---
