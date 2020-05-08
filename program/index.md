@@ -152,6 +152,9 @@ Prof. Miyashita Tomoyuki (Waseda University, Japan)
 
 {% highlight coffeescript %}
 13:00 - 15:30 Laboratory Sessions / Experiments / Robots 
+Experiments with MEMS
+Experiments with Trajectory Tracking on a Wheeled Mobile Robot
+Experiments in control using a Magnetic Levitation System
 {% endhighlight %}
 
 
