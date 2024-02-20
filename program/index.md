@@ -84,14 +84,16 @@ The relationship between the number of pixels and sampling frequency in a digita
 
 
 ## Seminars
-#### 11:00 - 12:00
+#### 13:00 - 16:00
 
 > Oct. 29 (Tue) - Selected Topics in Mechatronics and Robotics
 
 {% highlight coffeescript %}
-11:00 - 11:20 Seminar 1: ZHANG Peizhi (Waseda University)
-11:20 - 11:40 Seminar 2: HOLGADO Alexis Carlos (Waseda University)
-11:40 - 12:00 Seminar 3: HSU Chin-Cheng (Waseda University)
+Dr. Mohamed Abdelwahab, Ain Shams University
+Eng. Mohamed Adel
+MAEZAWA Yusuke (Master Student, Year 1, System Design Laboratory, Waseda University)
+SAKURAI Mayu (Master Student, Year 1, System Design Laboratory, Waseda University)
+AKIYAMA Ryota (Master Student, Year 1, System Design Laboratory, Waseda University)
 {% endhighlight %}
 
 
