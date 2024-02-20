@@ -86,10 +86,10 @@ The relationship between the number of pixels and sampling frequency in a digita
 ## Seminars
 #### 13:00 - 16:00
 
-> Oct. 29 (Tue) - Selected Topics in Mechatronics and Robotics
+> Feb. 25 (Sun) - Selected Topics in Mechatronics and Robotics
 
 {% highlight coffeescript %}
-Dr. Mohamed Abdelwahab, Ain Shams University
+13:00 - 13:20 Dr. Mohamed Abdelwahab, Ain Shams University
 Eng. Mohamed Adel
 MAEZAWA Yusuke (Master Student, Year 1, System Design Laboratory, Waseda University)
 SAKURAI Mayu (Master Student, Year 1, System Design Laboratory, Waseda University)
