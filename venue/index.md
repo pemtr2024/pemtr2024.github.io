@@ -19,11 +19,6 @@ Alexandria, Egypt
 {% endhighlight %}
 
 
-## Local Arrangements
-
-Eng. Muhammad Ali (E-JUST): mohamed.sobhi@ejust.edu.eg
-{: .notice}
-
 ## E-JUST Facilities
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cM5lZHMWyo" frameborder="0" allow="accelerometer; autoplay"> </iframe>
