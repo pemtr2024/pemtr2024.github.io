@@ -7,24 +7,25 @@ feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq2.jp
 comments: false
 ---
 
+
 ## A Glance
 
 ### Day 1 Feb. 25 (Sun)
 
 * 09:30 - 10:00 : [`Welcome Notes`](#welcome-notes)
-* 10:00 - 12:00 : [`Plenary Seminars, Part 1`](#speakers)
+* 10:00 - 12:00 : [`Plenary Seminars, Part 1`](#prof-wesugi-shigeru-waseda-university-japan)
 * 12:00 - 13:00 : Break
 * 13:00 - 16:00 : [`Seminars`](#prof-miyashita-tomoyuki-waseda-university-japan)
 
 ### Day 2 Feb. 26 (Mon)
 
-* 10:00 - 12:00 : [`Plenary Seminars, Part 2`](#seminars)
+* 10:00 - 12:00 : [`Plenary Seminars, Part 2`](#prof-ishii-hiroyuki-waseda-university-japan)
 * 12:00 - 13:00 : Break
 * 13:00 - 16:00 : [`Seminars`](#tutorials)
 
 ### Day 3 Feb. 27 (Tue)
 
-* 10:00 - 12:00 : [`Plenary Seminars, Part 3`](#competitions)
+* 10:00 - 12:00 : [`Plenary Seminars, Part 3`](#prof-matsubara-masami-waseda-university-japan)
 * 12:00 - 13:00 : Break
 * 13:00 - 16:00 : [`Undergraduate Seminars`](#laboratory-sessions)
 
