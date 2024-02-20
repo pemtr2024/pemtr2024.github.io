@@ -49,7 +49,7 @@ comments: false
 
 
 #### [Prof. WESUGI Shigeru](https://www.wesugi.mech.waseda.ac.jp) (Waseda University, Japan)
-##### Professor, Department of Modern Mechanical Engineering.
+##### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
 ##### Feb. 25 (Sun), 10:00 - 11:00
 > Designing tools for supporting human activities based on the nature of experience.
 
@@ -59,7 +59,7 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 
 
 #### [Prof. ISHII Hiroyuki](http://www.ishii.mmech.waseda.ac.jp/) (Waseda University, Japan)
-##### Professor, Department of Modern Mechanical Engineering
+##### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
 ##### Feb. 26 (Mon), 10:00 - 11:00
 
 > Title: Soft robots with novel and unique functions
