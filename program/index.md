@@ -36,9 +36,14 @@ comments: false
 
 #### 09:30 - 10:00
 
-* 09:30 - 09:40 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
+{% highlight coffeescript %}
 
-* 09:40 - 09:50 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
+09:30 - 09:40 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
+
+09:40 - 09:50 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
+
+{% endhighlight %}
+
 
 ---
 
@@ -58,7 +63,6 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 ## Seminars, Part 1
 
 {% highlight coffeescript %}
-
 
 13:00 - 13:30 Dr. Mohamed Abdelwahab, Ain Shams University
 13:30 - 14:00 Mr. Maezawa Yusuke, Waseda University
