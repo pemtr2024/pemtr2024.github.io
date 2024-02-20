@@ -57,12 +57,17 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 
 ## Seminars, Part 1
 
+{% highlight coffeescript %}
+
+
 Dr. Mohamed Abdelwahab, Ain Shams University
 Mr. Maezawa Yusuke, Waseda University
 Eng. Ananias Zulu, E-JUST
 Ms. Sakurai Mayu, Waseda University
 E-JUST's Robotics Club
 Mr. Akiyama Ryota, Waseda University
+
+{% endhighlight %}
 
 
 ---
@@ -84,6 +89,8 @@ Recently, soft robotics became popular, and several soft robots have been develo
 ## Seminars, Part 2
 
 
+{% highlight coffeescript %}
+
 13:00 - 13:20 Eng. Mohamed Adel, MTR, E-JUST
 13:20 - 13:40 Eng. Sudhir Zhuwawu, MTR, E-JUST
 13:40 - 14:00 Eng. Oladayo S. Ajani, Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea
@@ -94,6 +101,7 @@ Recently, soft robotics became popular, and several soft robots have been develo
 15:20 - 15:40 
 15:40 - 16:00 
 
+{% endhighlight %}
 
 ---
 
@@ -113,6 +121,8 @@ The relationship between the number of pixels and sampling frequency in a digita
 ## Seminars, Part 3
 
 
+{% highlight coffeescript %}
+
 13:00 - 13:20 Dr. Mohamed Salah, Robotics Engineer, Tokyo, Japan
 13:20 - 13:40 Eng. Oladayo S. Ajani, Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea
 13:40 - 14:00 Eng. Obasekore Hammed, Department of Robot and Smart System Engineering, Kyungpook National University, South Korea
@@ -123,26 +133,7 @@ The relationship between the number of pixels and sampling frequency in a digita
 15:20 - 15:40 Eng. Islam Shafeek, Embedded Systems Engineer at Cairo
 15:40 - 16:00 Eng. Abdelrahman and Eng. Youssief Anas
 
-
----
-
-
-## Seminars, Part 1
-### 13:00 - 16:00
-
-> Feb. 25 (Sun) - Selected Topics in Mechatronics and Robotics
-
-{% highlight coffeescript %}
-13:00 - 13:20 Dr. Mohamed Abdelwahab, Ain Shams University
-13:20 - 13:50 Eng. Mohamed Adel, E-JUST
-13:50 - 14:20 Mr. MAEZAWA Yusuke (Master Student, Year 1, System Design Laboratory, Waseda University)
-14:20 - 14:30 Eng. Ananias
-14:30 - 14:50 Ms. SAKURAI Mayu (Master Student, Year 1, System Design Laboratory, Waseda University)
-14:50 - 
-AKIYAMA Ryota (Master Student, Year 1, System Design Laboratory, Waseda University)
-
 {% endhighlight %}
-
 
 
 
