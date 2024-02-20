@@ -60,12 +60,12 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 {% highlight coffeescript %}
 
 
-Dr. Mohamed Abdelwahab, Ain Shams University
-Mr. Maezawa Yusuke, Waseda University
-Eng. Ananias Zulu, E-JUST
-Ms. Sakurai Mayu, Waseda University
-E-JUST's Robotics Club
-Mr. Akiyama Ryota, Waseda University
+13:00 - 13:30 Dr. Mohamed Abdelwahab, Ain Shams University
+13:30 - 14:00 Mr. Maezawa Yusuke, Waseda University
+14:00 - 14:30 Eng. Ananias Zulu, E-JUST
+14:30 - 15:00 Ms. Sakurai Mayu, Waseda University
+15:00 - 15:30 E-JUST's Robotics Club
+15:30 - 16:00 Mr. Akiyama Ryota, Waseda University
 
 {% endhighlight %}
 
@@ -79,6 +79,7 @@ Mr. Akiyama Ryota, Waseda University
 ### [Prof. ISHII Hiroyuki](http://www.ishii.mmech.waseda.ac.jp/) (Waseda University, Japan)
 #### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
 #### Feb. 26 (Mon), 10:00 - 11:00
+
 
 > Title: Soft robots with novel and unique functions
 
