@@ -43,7 +43,6 @@ comments: false
 
 ---
 
-
 ## Plenary Seminars, Part 1
 
 
