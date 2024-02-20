@@ -128,14 +128,14 @@ The relationship between the number of pixels and sampling frequency in a digita
 {% highlight coffeescript %}
 
 13:00 - 13:20 Dr. Mohamed Salah, Robotics Engineer, Tokyo, Japan
-13:20 - 13:40 Eng. Oladayo S. Ajani, Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea
-13:40 - 14:00 Eng. Obasekore Hammed, Department of Robot and Smart System Engineering, Kyungpook National University, South Korea
+13:20 - 13:40 Eng. Oladayo S. Ajani, Artificial Intelligence Department, Kyungpook National University, Daegu, South Korea
+13:40 - 14:00 Eng. Obasekore Hammed, Robot and Smart System Engineering Department, Kyungpook National University, South Korea
 14:00 - 14:20 Eng. Yasser Ashraf Abo Raya, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
 14:20 - 14:40 Eng. Ahmed Abdallah, Norwegian University of Science and Technology (NTNU)
 14:40 - 15:00 Eng. Ahmed Ibrahim Sharshar, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
 15:00 - 15:20 Eng. Frank Efe Erukainure, ICTAS Doctoral Scholar, Virginia Tech, USA
 15:20 - 15:40 Eng. Islam Shafeek, Embedded Systems Engineer at Cairo
-15:40 - 16:00 Eng. Abdelrahman and Eng. Youssief Anas
+15:40 - 16:00 Eng. Abdelrahman Ahmed Omar, Eng. Youssief Anas, E-JUST
 
 {% endhighlight %}
 
