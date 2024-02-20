@@ -42,7 +42,7 @@ Prof. Amr Adly, E-JUST President
 
 ## Local Arrangements
 
-* Eng. Muhammad Ali (E-JUST): +20-122-718-7738, mohamed.sobhi@ejust.edu.eg
+* Eng. Muhammad Ali (E-JUST): mohamed.sobhi@ejust.edu.eg
 
 
 

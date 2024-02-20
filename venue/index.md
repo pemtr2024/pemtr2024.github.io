@@ -21,8 +21,7 @@ Alexandria, Egypt
 
 ## Local Arrangements
 
-* Eng. Muhammad Ali (E-JUST): +20-122-718-7738, mohamed.sobhi@ejust.edu.eg
-* Mr. Ramy Ali (E-JUST): +20-101-797-7197, ramy.ali@ejust.edu.eg
+* Eng. Muhammad Ali (E-JUST): mohamed.sobhi@ejust.edu.eg
 {: .notice}
 
 ## E-JUST Facilities
@@ -33,7 +32,7 @@ Alexandria, Egypt
 
 ## Location
 
-<iframe width="640" height="480" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13698.893832435286!2d29.5826626!3d30.8664166!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfbf1eb15d4fed589!2sEgypt%20Japan%20University%20Of%20Science%20%26%20Technology!5e0!3m2!1sen!2sjp!4v1569813785473!5m2!1sen!2sjp" frameborder="0"> </iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5596.123800755764!2d29.559071447488893!3d30.859303273687704!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145f7da102aec573%3A0x7a548040ea315f2c!2sE-JUST%20Library!5e0!3m2!1sen!2sjp!4v1708405482582!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## E-JUST Campus
