@@ -132,27 +132,8 @@ Prof. Miyashita Tomoyuki (Waseda University, Japan)
 {% endhighlight %}
 
 
----
-
-## Competitions
-> Oct. 30 (Wed) - Activities based on PBL 
-
-{% highlight coffeescript %}
-10:00 - 12:00 Competition Session / Mobile Robot / Line Following
-{% endhighlight %}
-
----
-
-## Laboratory Sessions
-> Oct. 30 (Wed) - Hands-on Experiments with Mechatronics and Robotics Hardware
-
-{% highlight coffeescript %}
-13:00 - 15:30 Laboratory Sessions / Experiments / Robots 
-Experiments with MEMS
-Experiments with Trajectory Tracking on a Wheeled Mobile Robot
-Experiments in control using a Magnetic Levitation System
-{% endhighlight %}
 
 
-[Home](https://pemtr2019.github.io){: .btn}
+
+[Home](https://pemtr2024.github.io){: .btn}
 
