@@ -44,7 +44,16 @@ Eng. Muhammad Ali (E-JUST): mohamed.sobhi@ejust.edu.eg
 {% capture images %}
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq.jpg
     https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campus1.jpg
-    https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq2.jpg    
+    https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq2.jpg
+    https://raw.githubusercontent.com/pemtr2024/hw/master/IMG_0715.jpg
+    https://raw.githubusercontent.com/pemtr2024/hw/master/IMG_7639.jpg
+    https://raw.githubusercontent.com/pemtr2024/hw/master/IMG_1048.jpg
+    https://raw.githubusercontent.com/pemtr2024/hw/master/IMG_8047.jpg
+    https://raw.githubusercontent.com/pemtr2024/hw/master/IMG_8058.jpg
+    https://raw.githubusercontent.com/pemtr2024/hw/master/IMG_0942.jpg
+    https://raw.githubusercontent.com/pemtr2024/hw/master/IMG_8030.jpg
+    
+    
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
 
