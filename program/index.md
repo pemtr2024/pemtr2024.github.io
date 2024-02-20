@@ -31,6 +31,9 @@ comments: false
 * 13:00 - 16:00 : [`Seminars, Part 3`](#seminars-part-3)
 
 ---
+---
+---
+
 
 # Day 1 Feb. 25 (Sun)
 
@@ -106,6 +109,8 @@ Recently, soft robotics became popular, and several soft robots have been develo
 
 {% endhighlight %}
 
+---
+---
 ---
 
 # Day 3 Feb. 27 (Tue)
