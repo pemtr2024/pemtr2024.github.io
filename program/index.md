@@ -46,9 +46,9 @@ comments: false
 ## Plenary Seminars, Part 1
 
 
-#### [Prof. WESUGI Shigeru](https://www.wesugi.mech.waseda.ac.jp) (Waseda University, Japan)
-##### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
-##### Feb. 25 (Sun), 10:00 - 11:00
+### [Prof. WESUGI Shigeru](https://www.wesugi.mech.waseda.ac.jp) (Waseda University, Japan)
+#### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
+#### Feb. 25 (Sun), 10:00 - 11:00
 
 > Designing tools for supporting human activities based on the nature of experience.
 
@@ -62,9 +62,9 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 
 
 
-#### [Prof. ISHII Hiroyuki](http://www.ishii.mmech.waseda.ac.jp/) (Waseda University, Japan)
-##### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
-##### Feb. 26 (Mon), 10:00 - 11:00
+### [Prof. ISHII Hiroyuki](http://www.ishii.mmech.waseda.ac.jp/) (Waseda University, Japan)
+#### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
+#### Feb. 26 (Mon), 10:00 - 11:00
 
 > Title: Soft robots with novel and unique functions
 
@@ -78,9 +78,9 @@ Recently, soft robotics became popular, and several soft robots have been develo
 ## Plenary Seminars, Part 3
 
 
-#### [Prof. MATSUBARA Masami]() (Waseda University, Japan)
-##### Associate Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
-##### Feb. 27 (Tue), 10:00 - 11:00
+### [Prof. MATSUBARA Masami]() (Waseda University, Japan)
+#### Associate Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
+#### Feb. 27 (Tue), 10:00 - 11:00
 
 > Title: Image based measurement coupled with phase-locked loop
 
