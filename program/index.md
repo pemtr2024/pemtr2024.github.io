@@ -33,6 +33,7 @@ comments: false
 ---
 
 ## Welcome Notes
+
 ##### 10:00 - 11:00
 
 ~~~ html
@@ -43,7 +44,7 @@ comments: false
 ---
 
 
-## Speakers
+## Plenary Seminars, Part 1
 
 
 #### [Prof. WESUGI Shigeru](https://www.wesugi.mech.waseda.ac.jp) (Waseda University, Japan)
@@ -56,6 +57,11 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 {: .notice}
  
 
+---
+
+## Plenary Seminars, Part 2
+
+
 
 #### [Prof. ISHII Hiroyuki](http://www.ishii.mmech.waseda.ac.jp/) (Waseda University, Japan)
 ##### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
@@ -66,6 +72,11 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 Recently, soft robotics became popular, and several soft robots have been developed. We have been developing several types of soft robots driven by air pressure, at Waseda University. In this lecture, a soft growing robot and a soft longitudinal actuator with unique functions will be introduced.
 {: .notice}
 
+
+
+---
+
+## Plenary Seminars, Part 3
 
 
 #### [Prof. MATSUBARA Masami]() (Waseda University, Japan)
