@@ -125,6 +125,12 @@ The relationship between the number of pixels and sampling frequency in a digita
 ## Seminars, Part 3
 
 
+This session gathers accomplished graduates from Mechatronics and Robotics Department whose insghts are to inspire the next generation of MTRians and E-JUSTians.
+
+
+{: .notice}
+
+
 {% highlight coffeescript %}
 
 13:00 - 13:20 Dr. Mohamed Salah, Robotics Engineer, Tokyo, Japan
