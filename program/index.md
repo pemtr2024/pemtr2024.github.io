@@ -79,24 +79,8 @@ The relationship between the number of pixels and sampling frequency in a digita
 
 
 
-
 ---
 
-
-## Forum
-### Oct. 29 (Tue)
-#### 9:30 - 11:00
-> Discussion Topic: Practical Education / Mechatronics and Robotics
-
-{% highlight coffeescript %}
-Prof. Abdelfatah Mohamed (E-JUST, Egypt)
-Prof. Sabah Ahmed (E-JUST, Egypt)
-Prof. Mohamed Fanni (E-JUST, Egypt)
-Prof. Samy Assal (E-JUST, Egypt)
-Prof. Ahmed Fath El Bab (E-JUST, Egypt)
-Prof. Sugano Shigeki (Waseda University, Japan)
-Prof. Miyashita Tomoyuki (Waseda University, Japan)
-{% endhighlight %}
 
 ## Seminars
 #### 11:00 - 12:00
@@ -108,19 +92,6 @@ Prof. Miyashita Tomoyuki (Waseda University, Japan)
 11:20 - 11:40 Seminar 2: HOLGADO Alexis Carlos (Waseda University)
 11:40 - 12:00 Seminar 3: HSU Chin-Cheng (Waseda University)
 {% endhighlight %}
-
----
-
-## Tutorials
-
-> Oct. 29 (Tue) -  Selected Topics in Mechatronics and Robotics
-
-{% highlight c %}
-14:00 - 14:30 Tutorial 1: A Tutorial on Magnetic Suspension Systems (Prof. Abdelfatah Mohamed, E-JUST)
-14:30 - 15:00 Tutorial 2: Pick and place operation by SCARA robot (Prof. Samy Assal, E-JUST)
-15:00 - 15:30 Tutorial 3: Introduction to Competition Session (Dr. Victor and Dr. Moondeep, Waseda University)
-{% endhighlight %}
-
 
 
 
