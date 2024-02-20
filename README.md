@@ -3,7 +3,7 @@
 
 ## Preview
 
-[![screenshot](https://raw.githubusercontent.com/pemtr2019/hw/master/pics/screenshot.jpg)](https://pemtr2019.github.io/) 
+[![screenshot](https://raw.githubusercontent.com/pemtr2019/hw/master/pics/screenshot.jpg)](https://pemtr2024.github.io/) 
 
-See [Web page](https://pemtr2019.github.io/) hosted on GitHub.
+See [Web page](https://pemtr2024.github.io/) hosted on GitHub.
 
