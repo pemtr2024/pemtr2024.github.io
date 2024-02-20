@@ -2,34 +2,31 @@
 layout: page
 title: Program
 tags: [program, schedule]
-date: 2019-09-25
+date: 2024-02-20
 feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq2.jpg
 comments: false
 ---
 
 ## A Glance
 
-### Day 1 Oct. 28 (Mon)
+### Day 1 Feb. 25 (Sun)
 
-* 09:30 - 10:00 : Registration
-* 10:00 - 11:00 : [`Welcome Notes @ Theater`](#welcome-notes)
-* 11:00 - 13:00 : [`Plenary Seminars, Part 1 @ Theater`](#speakers)
-* 13:00 - 14:00 : Lunch at E-JUST
-* 14:00 - 16:00 : [`Plenary Seminars, Part 2 @ Theater`](#prof-miyashita-tomoyuki-waseda-university-japan)
+* 09:30 - 10:00 : [`Welcome Notes`](#welcome-notes)
+* 10:00 - 12:00 : [`Plenary Seminars, Part 1`](#speakers)
+* 12:00 - 13:00 : Break
+* 13:00 - 16:00 : [`Seminars`](#prof-miyashita-tomoyuki-waseda-university-japan)
 
-### Day 2 Oct. 29 (Tue)
+### Day 2 Feb. 26 (Mon)
 
-* 09:30 - 11:00 : [`Interactive Forum @ HQ - Room 109`](#forum)
-* 11:00 - 12:00 : [`Seminars @ HQ - Room 109`](#seminars)
-* 12:00 - 13:30 : Lunch at E-JUST
-* 14:00 - 16:00 : [`Tutorials @ HQ - Room 109`](#tutorials)
+* 10:00 - 12:00 : [`Plenary Seminars, Part 2`](#seminars)
+* 12:00 - 13:00 : Break
+* 13:00 - 16:00 : [`Seminars`](#tutorials)
 
-### Day 3 Oct. 30 (Wed)
+### Day 3 Feb. 27 (Tue)
 
-* 10:00 - 12:00 : [`Competitions @ HQ - Room 103-105`](#competitions)
-* 12:00 - 13:00 : Lunch at E-JUST
-* 13:00 - 15:30 : [`Laboratory Sessions @ MTR (Building 13)`](#laboratory-sessions)
-* 15:30 - 16:00 : Closing Ceremony
+* 10:00 - 12:00 : [`Plenary Seminars, Part 3`](#competitions)
+* 12:00 - 13:00 : Break
+* 13:00 - 16:00 : [`Undergraduate Seminars`](#laboratory-sessions)
 
 ---
 ---
@@ -38,11 +35,10 @@ comments: false
 ##### 10:00 - 11:00
 
 ~~~ html
-10:00 - 10:10 Prof. Abdelfatah Mohamed, Organizing Chair, Professor at The Department of Mechatronics and Robotics, E-JUST
-10:10 - 10:20 Prof. Sameh A. Nada, Vice President of Education and Academic Affairs, E-JUST
-10:20 - 10:30 Prof. Goto Satoshi, Vice President of Research, E-JUST
-10:30 - 10:40 Prof. Ahmed ElGohary, E-JUST President
-10:40 - 11:00 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
+
+09:30 - 09:40 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
+09:40 - 09:50 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
+
 ~~~
 
 ---
