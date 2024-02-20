@@ -8,7 +8,6 @@ comments: false
 ---
 
 
-
 This Workshop aims to exploit new strategies and opportunities for practical education/research in Mechatronics and Robotics. The title is “Fourth Egypt-Japan Workshop on Practical Education for Mechatronics and Robotics,” and builds upon our previous versions held in Alexandria, Egypt, in 2014/2019, and Tokyo, Japan, in 2017. 
 
 
