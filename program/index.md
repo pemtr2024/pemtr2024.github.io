@@ -126,8 +126,6 @@ The relationship between the number of pixels and sampling frequency in a digita
 
 
 This session gathers accomplished graduates from Mechatronics and Robotics Department whose insghts are to inspire the next generation of MTRians and E-JUSTians.
-
-
 {: .notice}
 
 
