@@ -55,6 +55,16 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 {: .notice}
  
 
+## Seminars, Part 1
+
+Dr. Mohamed Abdelwahab, Ain Shams University
+Mr. Maezawa Yusuke, Waseda University
+Eng. Ananias Zulu, E-JUST
+Ms. Sakurai Mayu, Waseda University
+E-JUST's Robotics Club
+Mr. Akiyama Ryota, Waseda University
+
+
 ---
 
 ## Plenary Seminars, Part 2
@@ -71,6 +81,20 @@ Recently, soft robotics became popular, and several soft robots have been develo
 {: .notice}
 
 
+## Seminars, Part 2
+
+
+13:00 - 13:20 Eng. Mohamed Adel, MTR, E-JUST
+13:20 - 13:40 Eng. Sudhir Zhuwawu, MTR, E-JUST
+13:40 - 14:00 Eng. Oladayo S. Ajani, Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea
+14:00 - 14:20 Eng. Obasekore Hammed, Department of Robot and Smart System Engineering, Kyungpook National University, Republic of Korea
+14:20 - 14:40 Eng. Ezz El-Din Moustafa, Waseda University (TBC)
+14:40 - 15:00 Mr. Abdallah Amr and Ms. Yomna Mohamed, MTR, E-JUST
+15:00 - 15:20 
+15:20 - 15:40 
+15:40 - 16:00 
+
+
 ---
 
 ## Plenary Seminars, Part 3
@@ -85,6 +109,19 @@ Recently, soft robotics became popular, and several soft robots have been develo
 The relationship between the number of pixels and sampling frequency in a digital camera is a trade-off. On the other hand, the stroboscopic effect of phase-locked loop imaging can be used to avoid this problem when limited to stationary phenomena. This presentation will include examples of applications to the measurement of high-speed rotating objects and dynamic X-ray CT.
 {: .notice}
 
+
+## Seminars, Part 3
+
+
+13:00 - 13:20 Dr. Mohamed Salah, Robotics Engineer, Tokyo, Japan
+13:20 - 13:40 Eng. Oladayo S. Ajani, Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea
+13:40 - 14:00 Eng. Obasekore Hammed, Department of Robot and Smart System Engineering, Kyungpook National University, South Korea
+14:00 - 14:20 Eng. Yasser Ashraf Abo Raya, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
+14:20 - 14:40 Eng. Ahmed Abdallah, Norwegian University of Science and Technology (NTNU)
+14:40 - 15:00 Eng. Ahmed Ibrahim Sharshar, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
+15:00 - 15:20 Eng. Frank Efe Erukainure, ICTAS Doctoral Scholar, Virginia Tech, USA
+15:20 - 15:40 Eng. Islam Shafeek, Embedded Systems Engineer at Cairo
+15:40 - 16:00 Eng. Abdelrahman and Eng. Youssief Anas
 
 
 ---
