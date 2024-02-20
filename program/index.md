@@ -38,11 +38,8 @@ comments: false
 #### 09:30 - 10:00
 
 {% highlight coffeescript %}
-
 09:30 - 09:40 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
-
 09:40 - 09:50 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
-
 {% endhighlight %}
 
 
