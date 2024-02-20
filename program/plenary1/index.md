@@ -49,7 +49,6 @@ comments: false
 #### [Prof. WESUGI Shigeru](https://www.wesugi.mech.waseda.ac.jp) (Waseda University, Japan)
 ##### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
 ##### Feb. 25 (Sun), 10:00 - 11:00
-
 > Designing tools for supporting human activities based on the nature of experience.
 
 Utilizing tools enhances human ability in certain aspects and declines it in others. This lecture introduces approaches to designing tools that not only enhance function, but also consider possibilities of action, including skill improvement and movement support, based on the nature of the human experience.
