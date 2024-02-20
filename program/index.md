@@ -34,7 +34,6 @@ comments: false
 
 # Day 1 Feb. 25 (Sun)
 
-
 ## Welcome Notes
 
 #### 09:30 - 10:00
