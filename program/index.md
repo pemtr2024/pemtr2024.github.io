@@ -3,7 +3,7 @@ layout: page
 title: Program
 tags: [program, schedule]
 date: 2024-02-20
-feature: https://raw.githubusercontent.com/pemtr2019/hw/master/pics/campushq2.jpg
+feature: https://raw.githubusercontent.com/pemtr2024/hw/master/IMG_8047.jpg
 comments: false
 ---
 
