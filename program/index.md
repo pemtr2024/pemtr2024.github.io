@@ -125,7 +125,7 @@ The relationship between the number of pixels and sampling frequency in a digita
 ## Seminars, Part 3
 
 
-This session gathers alumni from E-JUST's Mechatronics and Robotics Department with international exposure and whose relevant insights are to inspire the next generation of MTRians and E-JUSTians.
+This session gathers alumni from E-JUST's Mechatronics and Robotics (MTR) Department with international/industrial exposure and whose relevant insights/advices are to inspire the next generation of MTRians and E-JUSTians.
 {: .notice}
 
 
