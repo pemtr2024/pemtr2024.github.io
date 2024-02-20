@@ -10,20 +10,20 @@ comments: false
 
 # A Glance
 
-### Day 1 Feb. 25 (Sun)
+## Day 1 Feb. 25 (Sun)
 
 * 09:30 - 10:00 : [`Welcome Notes`](#welcome-notes)
 * 10:00 - 12:00 : [`Plenary Seminars, Part 1`](#prof-wesugi-shigeru-waseda-university-japan)
 * 12:00 - 13:00 : Break
 * 13:00 - 16:00 : [`Seminars`](#prof-miyashita-tomoyuki-waseda-university-japan)
 
-### Day 2 Feb. 26 (Mon)
+## Day 2 Feb. 26 (Mon)
 
 * 10:00 - 12:00 : [`Plenary Seminars, Part 2`](#prof-ishii-hiroyuki-waseda-university-japan)
 * 12:00 - 13:00 : Break
 * 13:00 - 16:00 : [`Seminars`](#tutorials)
 
-### Day 3 Feb. 27 (Tue)
+## Day 3 Feb. 27 (Tue)
 
 * 10:00 - 12:00 : [`Plenary Seminars, Part 3`](#prof-matsubara-masami-waseda-university-japan)
 * 12:00 - 13:00 : Break
@@ -34,7 +34,7 @@ comments: false
 
 ## Welcome Notes
 
-##### 10:00 - 11:00
+#### 09:30 - 10:00
 
 ~~~ html
 09:30 - 09:40 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
