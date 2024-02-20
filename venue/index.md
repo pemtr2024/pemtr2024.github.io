@@ -32,7 +32,9 @@ Alexandria, Egypt
 
 ## Location
 
-<iframe width="640" height="480" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5596.123800755764!2d29.559071447488893!3d30.859303273687704!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145f7da102aec573%3A0x7a548040ea315f2c!2sE-JUST%20Library!5e0!3m2!1sen!2sjp!4v1708405482582!5m2!1sen!2sjp" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe width="640" height="480" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5596.123800755764!2d29.559071447488893!3d30.859303273687704!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145f7da102aec573%3A0x7a548040ea315f2c!2sE-JUST%20Library!5e0!3m2!1sen!2sjp!4v1708405482582!5m2!1sen!2sjp" frameborder="0"> </iframe>
+
 
 
 
