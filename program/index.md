@@ -36,10 +36,9 @@ comments: false
 
 #### 09:30 - 10:00
 
-~~~ html
-09:30 - 09:40 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
-09:40 - 09:50 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
-~~~
+* 09:30 - 09:40 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
+
+* 09:40 - 09:50 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
 
 ---
 
@@ -72,7 +71,6 @@ Recently, soft robotics became popular, and several soft robots have been develo
 {: .notice}
 
 
-
 ---
 
 ## Plenary Seminars, Part 3
@@ -92,8 +90,8 @@ The relationship between the number of pixels and sampling frequency in a digita
 ---
 
 
-## Seminars
-#### 13:00 - 16:00
+## Seminars, Part 1
+### 13:00 - 16:00
 
 > Feb. 25 (Sun) - Selected Topics in Mechatronics and Robotics
 
@@ -105,6 +103,7 @@ The relationship between the number of pixels and sampling frequency in a digita
 14:30 - 14:50 Ms. SAKURAI Mayu (Master Student, Year 1, System Design Laboratory, Waseda University)
 14:50 - 
 AKIYAMA Ryota (Master Student, Year 1, System Design Laboratory, Waseda University)
+
 {% endhighlight %}
 
 
