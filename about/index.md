@@ -26,7 +26,7 @@ Our goal is to (1) provide a platform to discuss and collaborate on the potentia
 
 ## Venue
 
-Egypt - Japan University of Science and Technology (E-JUST)
+Library Theatre of Egypt - Japan University of Science and Technology (E-JUST)
 Borg-El Arab, Alexandria, Egypt
 
 
