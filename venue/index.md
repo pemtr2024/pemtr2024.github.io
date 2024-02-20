@@ -21,7 +21,7 @@ Alexandria, Egypt
 
 ## Local Arrangements
 
-* Eng. Muhammad Ali (E-JUST): mohamed.sobhi@ejust.edu.eg
+Eng. Muhammad Ali (E-JUST): mohamed.sobhi@ejust.edu.eg
 {: .notice}
 
 ## E-JUST Facilities
@@ -51,6 +51,6 @@ Alexandria, Egypt
 
 
 
-[Home](https://pemtr2019.github.io){: .btn}
+[Home](https://pemtr2024.github.io){: .btn}
 
 
