@@ -8,26 +8,27 @@ comments: false
 ---
 
 
+
 # A Glance
 
 ## Day 1 Feb. 25 (Sun)
 
 * 09:30 - 10:00 : [`Welcome Notes`](#welcome-notes)
-* 10:00 - 12:00 : [`Plenary Seminars, Part 1`](#prof-wesugi-shigeru-waseda-university-japan)
+* 10:00 - 12:00 : [`Plenary Seminars, Part 1`](#plenary-seminars-part-1)
 * 12:00 - 13:00 : Break
-* 13:00 - 16:00 : [`Seminars`](#prof-miyashita-tomoyuki-waseda-university-japan)
+* 13:00 - 16:00 : [`Seminars, Part 1`](#seminars-part-1)
 
 ## Day 2 Feb. 26 (Mon)
 
-* 10:00 - 12:00 : [`Plenary Seminars, Part 2`](#prof-ishii-hiroyuki-waseda-university-japan)
+* 10:00 - 12:00 : [`Plenary Seminars, Part 2`](#plenary-seminars-part-2)
 * 12:00 - 13:00 : Break
-* 13:00 - 16:00 : [`Seminars`](#tutorials)
+* 13:00 - 16:00 : [`Seminars, Part 2`](#seminars-part-2)
 
 ## Day 3 Feb. 27 (Tue)
 
-* 10:00 - 12:00 : [`Plenary Seminars, Part 3`](#prof-matsubara-masami-waseda-university-japan)
+* 10:00 - 12:00 : [`Plenary Seminars, Part 3`](#plenary-seminars-part-3)
 * 12:00 - 13:00 : Break
-* 13:00 - 16:00 : [`Undergraduate Seminars`](#laboratory-sessions)
+* 13:00 - 16:00 : [`Seminars, Part 3`](#seminars-part-3)
 
 ---
 ---
