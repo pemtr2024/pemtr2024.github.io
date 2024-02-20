@@ -100,9 +100,7 @@ Recently, soft robotics became popular, and several soft robots have been develo
 14:00 - 14:20 Eng. Obasekore Hammed, Department of Robot and Smart System Engineering, Kyungpook National University, Republic of Korea
 14:20 - 14:40 Eng. Ezz El-Din Moustafa, Waseda University (TBC)
 14:40 - 15:00 Mr. Abdallah Amr and Ms. Yomna Mohamed, MTR, E-JUST
-15:00 - 15:20 
-15:20 - 15:40 
-15:40 - 16:00 
+
 
 {% endhighlight %}
 
