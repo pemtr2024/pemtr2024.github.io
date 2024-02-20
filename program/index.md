@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title: Program
 tags: [program, schedule]
 date: 2024-02-20
