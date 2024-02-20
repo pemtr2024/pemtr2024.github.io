@@ -31,7 +31,9 @@ comments: false
 * 13:00 - 16:00 : [`Seminars, Part 3`](#seminars-part-3)
 
 ---
----
+
+# Day 1 Feb. 25 (Sun)
+
 
 ## Welcome Notes
 
@@ -42,8 +44,6 @@ comments: false
 09:40 - 09:50 Prof. Amr El-Taweel, Dean of School of Innovative Design Engineering, E-JUST
 {% endhighlight %}
 
-
----
 
 ## Plenary Seminars, Part 1
 
@@ -74,8 +74,9 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 
 ---
 
-## Plenary Seminars, Part 2
+# Day 2 Feb. 26 (Mon)
 
+## Plenary Seminars, Part 2
 
 
 ### [Prof. ISHII Hiroyuki](http://www.ishii.mmech.waseda.ac.jp/) (Waseda University, Japan)
@@ -107,6 +108,9 @@ Recently, soft robotics became popular, and several soft robots have been develo
 {% endhighlight %}
 
 ---
+
+# Day 3 Feb. 27 (Tue)
+
 
 ## Plenary Seminars, Part 3
 
