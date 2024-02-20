@@ -64,7 +64,7 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 13:30 - 14:00 Mr. Maezawa Yusuke, Waseda University
 14:00 - 14:30 Eng. Ananias Zulu, E-JUST
 14:30 - 15:00 Ms. Sakurai Mayu, Waseda University
-15:00 - 15:30 E-JUST's Robotics Club
+15:00 - 15:30 E-JUST Robotics Club
 15:30 - 16:00 Mr. Akiyama Ryota, Waseda University
 
 {% endhighlight %}
