@@ -103,9 +103,9 @@ Recently, soft robotics became popular, and several soft robots have been develo
 13:00 - 13:20 Eng. Mohamed Adel, MTR, E-JUST
 13:20 - 13:40 Eng. Abdullah Alamer, MTR, E-JUST
 13:40 - 14:00 Eng. Sudhir Zhuwawu, MTR, E-JUST
-14:00 - 14:20 Eng. Oladayo S. Ajani, Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea
-14:20 - 14:40 Eng. Obasekore Hammed, Department of Robot and Smart System Engineering, Kyungpook National University, Republic of Korea
-14:40 - 15:10 Eng. Ananias Zulu, E-JUST
+14:00 - 14:20 Eng. Ananias Zulu, E-JUST
+14:20 - 14:40 Eng. Oladayo S. Ajani, Department of Artificial Intelligence, Kyungpook National University, Daegu, South Korea
+14:40 - 15:10 Eng. Obasekore Hammed, Department of Robot and Smart System Engineering, Kyungpook National University, Republic of Korea
 15:10 - 15:30 Eng. Ezz El-Din Moustafa, Waseda University
 
 {% endhighlight %}
