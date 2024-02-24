@@ -39,7 +39,7 @@ comments: false
 
 ## Welcome Notes
 
-#### 09:30 - 10:00
+#### 10:00 - 10:30
 
 {% highlight coffeescript %}
 10:00 - 10:10 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
