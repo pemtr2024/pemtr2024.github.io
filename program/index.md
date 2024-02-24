@@ -13,8 +13,8 @@ comments: false
 
 ## Day 1 Feb. 25 (Sun)
 
-* 09:30 - 10:00 : [`Welcome Notes`](#welcome-notes)
-* 10:00 - 12:00 : [`Plenary Seminars, Part 1`](#plenary-seminars-part-1)
+* 10:00 - 10:30 : [`Welcome Notes`](#welcome-notes)
+* 10:30 - 12:00 : [`Plenary Seminars, Part 1`](#plenary-seminars-part-1)
 * 12:00 - 13:00 : Break
 * 13:00 - 16:00 : [`Seminars, Part 1`](#seminars-part-1)
 
