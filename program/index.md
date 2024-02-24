@@ -42,8 +42,8 @@ comments: false
 #### 09:30 - 10:00
 
 {% highlight coffeescript %}
-09:30 - 09:40 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
-09:40 - 09:50 Prof. Amr El-Taweel, Dean, School of Innovative Design Engineering, E-JUST
+10:00 - 10:10 Prof. Mahmoud El-Samanty, Organizing Chair, Associate Professor at The Department of Mechatronics and Robotics, E-JUST
+10:10 - 10:20 Prof. Amr El-Taweel, Dean, School of Innovative Design Engineering, E-JUST
 {% endhighlight %}
 
 
@@ -52,7 +52,7 @@ comments: false
 
 ### [Prof. WESUGI Shigeru](https://www.wesugi.mech.waseda.ac.jp) (Waseda University, Japan)
 #### Professor, Faculty of Science and Engineering, School of Creative Science and Engineering
-#### Feb. 25 (Sun), 10:00 - 11:00
+#### Feb. 25 (Sun), 10:30 - 11:30
 
 > Designing tools for supporting human activities based on the nature of experience.
 
