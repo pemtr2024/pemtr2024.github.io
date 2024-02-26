@@ -148,7 +148,7 @@ This session gathers alumni from E-JUST's Mechatronics and Robotics (MTR) Depart
 15:20 - 15:40 Mr. Ahmed Heakl, E-JUST
 15:40 - 16:00 Eng. Islam Shafeek, Embedded Systems Engineer at Cairo
 ...
-17:00 - 20:00 Eng. Abdelrahman Ahmed Omar, Eng. Youssief Anas, E-JUST
+@HQ 17:00 - 20:00 Eng. Abdelrahman Ahmed Omar, Eng. Youssief Anas, E-JUST
 
 {% endhighlight %}
 
