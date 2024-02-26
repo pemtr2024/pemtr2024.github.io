@@ -104,8 +104,8 @@ Recently, soft robotics became popular, and several soft robots have been develo
 13:40 - 14:00 Eng. Abdallah Magdy, MTR, E-JUST 
 14:00 - 14:20 Eng. Sudhir Zhuwawu, MTR, E-JUST
 14:20 - 14:40 Eng. Ananias Zulu, MTR, E-JUST
-15:10 - 15:30 Eng. Ezz El-Din Moustafa, Waseda University
-15:30 - 16:00 E-JUST Robotics Club
+15:10 - 15:30 E-JUST Robotics Club
+15:30 - 16:00 Eng. Ezz El-Din Moustafa, Waseda University
 
 {% endhighlight %}
 
