@@ -68,7 +68,6 @@ Utilizing tools enhances human ability in certain aspects and declines it in oth
 13:30 - 14:00 Mr. Maezawa Yusuke, Waseda University
 14:00 - 14:30 Mr. Abdallah Amr, Ms. Yomna Mohamed, Mr. Mostafa Osama, Mr. Tarek Shohdy, MTR, E-JUST
 14:30 - 15:00 Ms. Sakurai Mayu, Waseda University
-15:00 - 15:30 E-JUST Robotics Club
 15:30 - 16:00 Mr. Akiyama Ryota, Waseda University
 
 {% endhighlight %}
@@ -106,6 +105,7 @@ Recently, soft robotics became popular, and several soft robots have been develo
 14:00 - 14:20 Eng. Sudhir Zhuwawu, MTR, E-JUST
 14:20 - 14:40 Eng. Ananias Zulu, MTR, E-JUST
 15:10 - 15:30 Eng. Ezz El-Din Moustafa, Waseda University
+15:30 - 16:00 E-JUST Robotics Club
 
 {% endhighlight %}
 
